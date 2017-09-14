@@ -4,6 +4,40 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Work in progress*. Contributions are always welcome!
 
+## [GreatPlaces](https://github.com/kphillpotts/XamarinFormsLayoutChallenges)
+
+ListView with transparent background and a purple gradient behind.
+
+<img src="images/greatplaces.gif" Width="210" />
+
+### More information:
+
+- Blog: [Xamarin.Forms Layout Challenges – Great Places](https://www.kymphillpotts.com/xamarin-forms-layout-challenges-great-places/)
+- Source code: [https://github.com/kphillpotts/XamarinFormsLayoutChallenges](https://github.com/kphillpotts/XamarinFormsLayoutChallenges)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
+
+## [InAnger](https://github.com/awolf/Xamarin-Forms-InAnger)
+
+Samples to show that Xamarin.Forms is capable of creating something that  looks really good.
+
+<img src="images/inanger.png" Width="600" />
+
+### Samples
+
+- Find a Vet
+- Phoenix Peaks
+- Jobbberr
+- Woofer
+- HeatMap
+- Hot Sauce
+- Findr
+- MallDash
+
+### More information:
+
+- Source code: [https://github.com/awolf/Xamarin-Forms-InAnger](https://github.com/awolf/Xamarin-Forms-InAnger)
+- Author: [Adam J Wolf](https://twitter.com/adamjwolf)
+
 ## [Instagram](https://github.com/adamped/Instagram)
 
 <img src="images/instagram-login.png" Width="210" /> <img src="images/instagram-feed.png" Width="210" /> <img src="images/instagram-feed-ios.png" Width="210" /> <img src="images/instagram-feed-droid.png" Width="210" /> 
@@ -47,6 +81,19 @@ A Xamarin.Forms version of the Twitter App.
 
 - Source code: [https://github.com/sthewissen/KickassUI.Twitter](https://github.com/sthewissen/KickassUI.Twitter)
 - Author: [Steven Thewissen](https://twitter.com/devnl)
+
+## [Timeline](https://github.com/kphillpotts/XamarinFormsLayoutChallenges)
+
+A timeline of activities.  This is useful for things like transportation schedules or class times. 
+
+<img src="images/timeline-android.png" Width="210" /> <img src="images/timeline-ios.png" Width="210" /> 
+
+### More information:
+
+- Blog: [Xamarin.Forms Layout Challenges – Timeline](https://www.kymphillpotts.com/xamarin-forms-layout-challenges-timeline/)
+- Source code: [https://github.com/kphillpotts/XamarinFormsLayoutChallenges](https://github.com/kphillpotts/XamarinFormsLayoutChallenges)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
+
 
 ## [Xamarin.Netflix](https://github.com/jsuarezruiz/xamarin-forms-netflix-sample)
 
