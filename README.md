@@ -10,6 +10,10 @@ ListView with transparent background and a purple gradient behind.
 
 <img src="images/greatplaces.gif" Width="210" />
 
+### Features:
+
+- Custom ViewCells.
+
 ### More information:
 
 - Blog: [Xamarin.Forms Layout Challenges – Great Places](https://www.kymphillpotts.com/xamarin-forms-layout-challenges-great-places/)
@@ -42,6 +46,11 @@ Samples to show that Xamarin.Forms is capable of creating something that  looks 
 
 <img src="images/instagram-login.png" Width="210" /> <img src="images/instagram-feed.png" Width="210" /> <img src="images/instagram-feed-ios.png" Width="210" /> <img src="images/instagram-feed-droid.png" Width="210" /> 
 
+### Features:
+
+- Custom Entry.
+- [Circle Images](https://github.com/jamesmontemagno/ImageCirclePlugin).
+
 ### More information:
 
 - Blog: [Creating The Instagram UI In Xamarin.Forms](https://xamarinhelp.com/creating-instagram-ui-xamarin-forms/)
@@ -53,6 +62,11 @@ Samples to show that Xamarin.Forms is capable of creating something that  looks 
 This sample show how to recreate a beautifull Social Network profile type page in Xamarin.Forms.
 
 <img src="images/social-media.png" Width="210" />
+
+### Features:
+
+- Curved header Image.
+- Profile Image that overlaps the header.
 
 ### More information:
 
@@ -66,8 +80,17 @@ A Xamarin.Forms version of the Runkeeper App.
 
 <img src="images/comparison-runkeeper-droid.jpg" Width="600" />
 
+### Features:
+
+- Custom Tabs.
+- Custom fonts in the page header.
+- Custom logo in page header.
+- [Carousel](https://github.com/alexrainman/CarouselView).
+- Custom Map.
+
 ### More information:
 
+- Blog: [Creating a good-looking Xamarin Forms UI: Runkeeper](https://www.thewissen.io/xamarin-forms-ui-runkeeper/)
 - Source code: [https://github.com/sthewissen/KickassUI.Runkeeper](https://github.com/sthewissen/KickassUI.Runkeeper)
 - Author: [Steven Thewissen](https://twitter.com/devnl)
 
@@ -77,8 +100,16 @@ A Xamarin.Forms version of the Twitter App.
 
 <img src="images/comparison-twitter-droid.png" Width="420" />
 
+### Features:
+
+- Android floating action button.
+- MasterDetailPage custom icon.
+- Custom Tabs (colors).
+
+
 ### More information:
 
+- Blog: [Creating a good-looking Xamarin Forms UI: Twitter](https://www.thewissen.io/xamarin-forms-ui-twitter/)
 - Source code: [https://github.com/sthewissen/KickassUI.Twitter](https://github.com/sthewissen/KickassUI.Twitter)
 - Author: [Steven Thewissen](https://twitter.com/devnl)
 
@@ -87,6 +118,12 @@ A Xamarin.Forms version of the Twitter App.
 A timeline of activities.  This is useful for things like transportation schedules or class times. 
 
 <img src="images/timeline-android.png" Width="210" /> <img src="images/timeline-ios.png" Width="210" /> 
+
+### Features:
+
+- ListView Header and Footer.
+- Custom ViewCell.
+
 
 ### More information:
 
@@ -106,7 +143,7 @@ A Xamarin.Forms version of the Netflix App.
 - Horizontal List.
 - Transparent NavigationBar on Android and iOS.
 - Parallax effect.
-- Multi-column List.
+- [Multi-column List](https://github.com/daniel-luberda/DLToolkit.Forms.Controls/tree/master/FlowListView).
 
 ### More information:
 
