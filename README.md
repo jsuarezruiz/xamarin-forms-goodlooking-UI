@@ -94,6 +94,19 @@ A Xamarin.Forms version of the Runkeeper App.
 - Source code: [https://github.com/sthewissen/KickassUI.Runkeeper](https://github.com/sthewissen/KickassUI.Runkeeper)
 - Author: [Steven Thewissen](https://twitter.com/devnl)
 
+## [KickassUI.Spotify](https://github.com/sthewissen/KickassUI.Spotify)
+
+A Xamarin.Forms version of the Spotify App.
+
+<img src="images/spotify-ios1.jpg" Width="500" />
+<img src="images/spotify-ios2.jpg" Width="500" />
+
+### More information:
+
+- Blog: [Creating a good-looking Xamarin Forms UI: Spotify](https://www.thewissen.io/xamarin-forms-ui-spotify/)
+- Source code: [https://github.com/sthewissen/KickassUI.Spotify](https://github.com/sthewissen/KickassUI.Spotify)
+- Author: [Steven Thewissen](https://twitter.com/devnl)
+ 
 ## [KickassUI.Twitter](https://github.com/sthewissen/KickassUI.Twitter)
 
 A Xamarin.Forms version of the Twitter App.
@@ -105,7 +118,6 @@ A Xamarin.Forms version of the Twitter App.
 - Android floating action button.
 - MasterDetailPage custom icon.
 - Custom Tabs (colors).
-
 
 ### More information:
 
