@@ -170,5 +170,6 @@ A Xamarin.Forms version of the Netflix App.
 
 ### More information:
 
+- Blog: [Creando la interfaz de Netflix con Xamarin.Forms](https://javiersuarezruiz.wordpress.com/2017/09/18/creando-la-interfaz-de-netflix-con-xamarin-forms/)
 - Source code: [https://github.com/jsuarezruiz/xamarin-forms-netflix-sample](https://github.com/jsuarezruiz/xamarin-forms-netflix-sample)
 - Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
