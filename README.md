@@ -4,6 +4,17 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Work in progress*. Contributions are always welcome!
 
+## [BikeSharing](https://github.com/Microsoft/BikeSharing360_MobileApps)
+
+BikeSharing360 is a fictitious example of a smart bike sharing system with 10,000 bikes distributed in 650 stations located throughout New York City and Seattle. Their vision is to provide a modern and personalized experience to riders and to run their business with intelligence. Was a demo in the Connect(); 2016.
+
+<img src="images/bikesharing-sign-up.png" Width="210" /> <img src="images/bikesharing-home.png" Width="210" /> <img src="images/bikesharing-menu.png" Width="210" /> <img src="images/bikesharing-new-ride.png" Width="210" />
+
+### More information:
+
+- Source code: [https://github.com/Microsoft/BikeSharing360_MobileApps](https://github.com/Microsoft/BikeSharing360_MobileApps)
+
+
 ## [GreatPlaces](https://github.com/kphillpotts/XamarinFormsLayoutChallenges)
 
 ListView with transparent background and a purple gradient behind.
