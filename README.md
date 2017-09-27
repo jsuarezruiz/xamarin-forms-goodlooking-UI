@@ -176,7 +176,7 @@ A Xamarin.Forms version of the Netflix App.
 
 ## [Facebook](https://github.com/XAM-Consulting/FacebookForms)
 
-<img src="http://www.michaelridland.com/wp-content/uploads/2017/09/fbforms-sidebar.gif" Width="210" />
+<img src="images/facebook-sidebar.gif" Width="210" /> <img src="images/facebook-like.gif" Width="210" /> <img src="images/facebook-navigationbar.gif" Width="210" />
 
 ### Features:
 
