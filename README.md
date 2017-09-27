@@ -176,13 +176,15 @@ A Xamarin.Forms version of the Netflix App.
 
 ## [Facebook](https://github.com/XAM-Consulting/FacebookForms)
 
+A Xamarin.Forms version of the Facebook App.
+
 <img src="images/facebook-sidebar.gif" Width="210" /> <img src="images/facebook-like.gif" Width="210" /> <img src="images/facebook-navigationbar.gif" Width="210" />
 
 ### Features:
 
-- Right Slide Bar
-- Disappearing NavigationBar
-- Like Animations
+- Right Slide Bar.
+- Disappearing NavigationBar.
+- Like Animations.
 
 ### More information:
 
