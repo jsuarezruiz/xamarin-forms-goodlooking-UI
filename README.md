@@ -173,3 +173,19 @@ A Xamarin.Forms version of the Netflix App.
 - Blog: [Creando la interfaz de Netflix con Xamarin.Forms](https://javiersuarezruiz.wordpress.com/2017/09/18/creando-la-interfaz-de-netflix-con-xamarin-forms/)
 - Source code: [https://github.com/jsuarezruiz/xamarin-forms-netflix-sample](https://github.com/jsuarezruiz/xamarin-forms-netflix-sample)
 - Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
+## [Facebook](https://github.com/XAM-Consulting/FacebookForms)
+
+<img src="http://www.michaelridland.com/wp-content/uploads/2017/09/fbforms-sidebar.gif" Width="210" />
+
+### Features:
+
+- Right Slide Bar
+- Disappearing NavigationBar
+- Like Animations
+
+### More information:
+
+- Blog: [Beautiful Xamarin – Facebook Clone in Xamarin.Forms](http://www.michaelridland.com/mobile/beautiful-xamarin-facebook-clone-in-xamarin-forms/)
+- Source code: [https://github.com/XAM-Consulting/FacebookForms](https://github.com/XAM-Consulting/FacebookForms)
+- Author: [Michael Ridland](https://twitter.com/rid00z)
