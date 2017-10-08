@@ -4,6 +4,8 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Work in progress*. Contributions are always welcome!
 
+*Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?*. Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
+
 ## [BikeSharing](https://github.com/Microsoft/BikeSharing360_MobileApps)
 
 BikeSharing360 is a fictitious example of a smart bike sharing system with 10,000 bikes distributed in 650 stations located throughout New York City and Seattle. Their vision is to provide a modern and personalized experience to riders and to run their business with intelligence. Was a demo in the Connect(); 2016.
