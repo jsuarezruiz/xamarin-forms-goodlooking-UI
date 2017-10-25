@@ -12,6 +12,11 @@ BikeSharing360 is a fictitious example of a smart bike sharing system with 10,00
 
 <img src="images/bikesharing-sign-up.png" Width="210" /> <img src="images/bikesharing-home.png" Width="210" /> <img src="images/bikesharing-menu.png" Width="210" /> <img src="images/bikesharing-new-ride.png" Width="210" />
 
+### Features:
+
+- Custom animations from XAML.
+- Custom Map.
+
 ### More information:
 
 - Source code: [https://github.com/Microsoft/BikeSharing360_MobileApps](https://github.com/Microsoft/BikeSharing360_MobileApps)
@@ -113,6 +118,12 @@ A Xamarin.Forms version of the Spotify App.
 
 <img src="images/spotify-ios1.jpg" Width="500" />
 <img src="images/spotify-ios2.jpg" Width="500" />
+
+### Features:
+
+- Translucent navigation bar.
+- Blurred fullscreen background.
+- Custom Slider.
 
 ### More information:
 
