@@ -19,8 +19,22 @@ BikeSharing360 is a fictitious example of a smart bike sharing system with 10,00
 
 ### More information:
 
-- Source code: [https://github.com/Microsoft/BikeSharing360_MobileApps](https://github.com/Microsoft/BikeSharing360_MobileApps)
+- Source code: [https://github.com/aloisdeniel/Microcharts.Samples](https://github.com/aloisdeniel/Microcharts.Samples)
 
+## [Bikr](https://github.com/aloisdeniel/Microcharts.Samples)
+
+A bike activity App. Sample to show Microcharts usage.
+
+<img src="images/bikr.png" Width="600" />
+
+### Features:
+
+- SkiaSharp charts.
+
+### More information:
+
+- Source code: [https://github.com/Microsoft/BikeSharing360_MobileApps](https://github.com/Microsoft/BikeSharing360_MobileApps)
+- Author: [Aloïs Deniel](https://github.com/aloisdeniel)
 
 ## [GreatPlaces](https://github.com/kphillpotts/XamarinFormsLayoutChallenges)
 
