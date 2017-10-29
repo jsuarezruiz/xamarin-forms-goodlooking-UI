@@ -12,6 +12,10 @@ BikeSharing360 is a fictitious example of a smart bike sharing system with 10,00
 
 <img src="images/bikesharing-sign-up.png" Width="210" /> <img src="images/bikesharing-home.png" Width="210" /> <img src="images/bikesharing-menu.png" Width="210" /> <img src="images/bikesharing-new-ride.png" Width="210" />
 
+### Platforms
+
+Android, iOS & UWP.
+
 ### Features:
 
 - Custom animations from XAML.
@@ -26,6 +30,10 @@ BikeSharing360 is a fictitious example of a smart bike sharing system with 10,00
 A bike activity App. Sample to show Microcharts usage.
 
 <img src="images/bikr.png" Width="600" />
+
+### Platforms
+
+Android & iOS.
 
 ### Features:
 
@@ -42,6 +50,10 @@ ListView with transparent background and a purple gradient behind.
 
 <img src="images/greatplaces.gif" Width="210" />
 
+### Platforms
+
+Android, iOS & UWP.
+
 ### Features:
 
 - Custom ViewCells.
@@ -57,6 +69,10 @@ ListView with transparent background and a purple gradient behind.
 Samples to show that Xamarin.Forms is capable of creating something that  looks really good.
 
 <img src="images/inanger.png" Width="600" />
+
+### Platforms
+
+Android & iOS.
 
 ### Samples
 
@@ -77,6 +93,10 @@ Samples to show that Xamarin.Forms is capable of creating something that  looks 
 ## [Instagram](https://github.com/adamped/Instagram)
 
 <img src="images/instagram-login.png" Width="210" /> <img src="images/instagram-feed.png" Width="210" /> <img src="images/instagram-feed-ios.png" Width="210" /> <img src="images/instagram-feed-droid.png" Width="210" /> 
+
+### Platforms
+
+Android, iOS & UWP.
 
 ### Features:
 
@@ -112,6 +132,10 @@ A Xamarin.Forms version of the Runkeeper App.
 
 <img src="images/comparison-runkeeper-droid.jpg" Width="600" />
 
+### Platforms
+
+Android & iOS.
+
 ### Features:
 
 - Custom Tabs.
@@ -133,6 +157,10 @@ A Xamarin.Forms version of the Spotify App.
 <img src="images/spotify-ios1.jpg" Width="500" />
 <img src="images/spotify-ios2.jpg" Width="500" />
 
+### Platforms
+
+Android & iOS.
+
 ### Features:
 
 - Translucent navigation bar.
@@ -150,6 +178,10 @@ A Xamarin.Forms version of the Spotify App.
 A Xamarin.Forms version of the Twitter App.
 
 <img src="images/comparison-twitter-droid.png" Width="420" />
+
+### Platforms
+
+Android & iOS.
 
 ### Features:
 
@@ -169,11 +201,14 @@ A timeline of activities.  This is useful for things like transportation schedul
 
 <img src="images/timeline-android.png" Width="210" /> <img src="images/timeline-ios.png" Width="210" /> 
 
+### Platforms
+
+Android, iOS & UWP.
+
 ### Features:
 
 - ListView Header and Footer.
 - Custom ViewCell.
-
 
 ### More information:
 
@@ -181,12 +216,15 @@ A timeline of activities.  This is useful for things like transportation schedul
 - Source code: [https://github.com/kphillpotts/XamarinFormsLayoutChallenges](https://github.com/kphillpotts/XamarinFormsLayoutChallenges)
 - Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
 
-
 ## [Xamarin.Netflix](https://github.com/jsuarezruiz/xamarin-forms-netflix-sample)
 
 A Xamarin.Forms version of the Netflix App.
 
 <img src="images/netflix-profile-ios.png" alt="Choose Profile" Width="210" /> <img src="images/netflix-home-ios.png" alt="Home" Width="210" /> <img src="images/netflix-menu-ios.png" alt="Main Menu" Width="210" /> <img src="images/netflix-movie-ios.png" alt="Movie Detail" Width="210" />
+
+### Platforms
+
+Android & iOS.
 
 ### Features:
 
@@ -206,6 +244,10 @@ A Xamarin.Forms version of the Netflix App.
 A Xamarin.Forms version of the Facebook App.
 
 <img src="images/facebook-sidebar.gif" Width="210" /> <img src="images/facebook-like.gif" Width="210" /> <img src="images/facebook-navigationbar.gif" Width="210" />
+
+### Platforms
+
+Android, iOS & UWP.
 
 ### Features:
 
