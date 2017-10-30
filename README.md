@@ -33,7 +33,7 @@ A bike activity App. Sample to show Microcharts usage.
 
 ### Platforms
 
-Android & iOS.
+Android, iOS & UWP.
 
 ### Features:
 
