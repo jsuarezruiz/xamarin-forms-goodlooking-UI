@@ -260,3 +260,24 @@ Android, iOS & UWP.
 - Blog: [Beautiful Xamarin – Facebook Clone in Xamarin.Forms](http://www.michaelridland.com/mobile/beautiful-xamarin-facebook-clone-in-xamarin-forms/)
 - Source code: [https://github.com/XAM-Consulting/FacebookForms](https://github.com/XAM-Consulting/FacebookForms)
 - Author: [Michael Ridland](https://twitter.com/rid00z)
+
+## [Movies](https://github.com/jsuarezruiz/xamarin-forms-gtk-movies-sample)
+
+Movies is a Xamarin.Forms GTK backend application that makes use of The Movie Database (TMDb) API to demonstrate the possibilities of the new backend making use of a great variety of functionality.
+
+<img src="images/movies-linux.png" Width="420" /> <img src="images/menu-linux.png" Width="420" /> <img src="images/movie-detail-linux.png" Width="420" /> <img src="images/casting02-linux.png" Width="420" />
+
+### Platforms
+
+Linux, macOS and Windows.
+
+### Features:
+
+- MasterDetailPage.
+- Maps.
+- Gtk Themes.
+
+### More information:
+
+- Source code: [https://github.com/jsuarezruiz/xamarin-forms-gtk-movies-sample](https://github.com/jsuarezruiz/xamarin-forms-gtk-movies-sample)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
