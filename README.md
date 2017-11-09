@@ -29,7 +29,7 @@ Android, iOS & UWP.
 
 A bike activity App. Sample to show Microcharts usage.
 
-<img src="images/bikr.png" Width="600" />
+<img src="images/bikr.png" Width="800" />
 
 ### Platforms
 
@@ -43,6 +43,30 @@ Android, iOS & UWP.
 
 - Source code: [https://github.com/Microsoft/BikeSharing360_MobileApps](https://github.com/Microsoft/BikeSharing360_MobileApps)
 - Author: [Aloïs Deniel](https://github.com/aloisdeniel)
+
+## [Evolve](https://github.com/xamarinhq/app-evolve) 
+
+Xamarin Evolve 2016 Mobile App. 
+
+<img src="images/evolve.png" Width="800" />
+
+This app is around 15,000 lines of code. The iOS version contains 93% shared code, the Android version contains 90% shared code, the UWP has 99% shared code, and our Azure backend contains 23% shared code with the clients!
+
+### Features:
+
+- Azure + Online/Offline Sync
+- Barcode Scanning
+- Calendar Integration
+- Maps & Navigation
+- Push Notifications
+- Phone Dialer
+- Wi-Fi configuration
+- URL Navigation (Universal Links + Google App Indexing)
+
+### More information:
+
+- Source code: [https://github.com/xamarinhq/app-evolve](https://github.com/xamarinhq/app-evolve)
+- Authors: [James Montemagno](https://github.com/aloisdeniel) & [Pierce Boggan](https://github.com/pierceboggan)
 
 ## [GreatPlaces](https://github.com/kphillpotts/XamarinFormsLayoutChallenges)
 
