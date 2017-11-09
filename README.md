@@ -52,6 +52,10 @@ Xamarin Evolve 2016 Mobile App.
 
 This app is around 15,000 lines of code. The iOS version contains 93% shared code, the Android version contains 90% shared code, the UWP has 99% shared code, and our Azure backend contains 23% shared code with the clients!
 
+### Platforms
+
+Android, iOS & UWP.
+
 ### Features:
 
 - Azure + Online/Offline Sync
