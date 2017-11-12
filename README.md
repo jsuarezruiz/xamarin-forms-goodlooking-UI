@@ -29,7 +29,7 @@ Android, iOS & UWP.
 
 A bike activity App. Sample to show Microcharts usage.
 
-<img src="images/bikr.png" Width="800" />
+<img src="images/bikr.png" Width="600" />
 
 ### Platforms
 
@@ -297,7 +297,7 @@ Movies is a Xamarin.Forms GTK backend application that makes use of The Movie Da
 
 ### Platforms
 
-Linux, macOS and Windows.
+Linux, macOS, UWP and Windows.
 
 ### Features:
 
