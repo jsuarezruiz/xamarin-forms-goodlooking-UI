@@ -23,7 +23,7 @@ Android, iOS & UWP.
 
 ### More information:
 
-- Source code: [https://github.com/aloisdeniel/Microcharts.Samples](https://github.com/aloisdeniel/Microcharts.Samples)
+- Source code:  [https://github.com/Microsoft/BikeSharing360_MobileApps](https://github.com/Microsoft/BikeSharing360_MobileApps)
 
 ## [Bikr](https://github.com/aloisdeniel/Microcharts.Samples)
 
@@ -41,7 +41,7 @@ Android, iOS & UWP.
 
 ### More information:
 
-- Source code: [https://github.com/Microsoft/BikeSharing360_MobileApps](https://github.com/Microsoft/BikeSharing360_MobileApps)
+- Source code: [https://github.com/aloisdeniel/Microcharts.Samples](https://github.com/aloisdeniel/Microcharts.Samples)
 - Author: [Aloïs Deniel](https://github.com/aloisdeniel)
 
 ## [Evolve](https://github.com/xamarinhq/app-evolve) 
@@ -70,7 +70,7 @@ Android, iOS & UWP.
 ### More information:
 
 - Source code: [https://github.com/xamarinhq/app-evolve](https://github.com/xamarinhq/app-evolve)
-- Authors: [James Montemagno](https://github.com/aloisdeniel) & [Pierce Boggan](https://github.com/pierceboggan)
+- Authors: [James Montemagno](https://github.com/jamesmontemagno) & [Pierce Boggan](https://github.com/pierceboggan)
 
 ## [GreatPlaces](https://github.com/kphillpotts/XamarinFormsLayoutChallenges)
 
