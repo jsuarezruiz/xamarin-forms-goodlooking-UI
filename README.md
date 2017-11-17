@@ -297,7 +297,7 @@ Movies is a Xamarin.Forms GTK backend application that makes use of The Movie Da
 
 ### Platforms
 
-Linux, macOS, UWP and Windows.
+Android, iOS, Linux, macOS, UWP and Windows.
 
 ### Features:
 
