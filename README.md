@@ -1,10 +1,33 @@
-# Xamarin.Forms
+# Xamarin.Forms goodlooking UI Samples
 
 A curated list of awesome **Xamarin.Forms** samples to show how to create **goodlooking UI** with Xamarin.Forms.
 
 *Work in progress*. Contributions are always welcome!
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?*. Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
+
+## [SmartHotel](https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps)
+
+Travelers are always on the go, so SmartHotel360 offers a beautiful fully-native cross-device mobile app for guests and business travelers built with Xamarin.
+
+<img src="images/smarthotel-home.png" Width="210" /> <img src="images/smarthotel-menu.png" Width="210" /> <img src="images/smarthotel-suggestions.png" Width="210" /> <img src="images/smarthotel-myroom.png" Width="210" />
+### Platforms
+
+Android, iOS & UWP.
+
+### Features:
+
+- Custom animations from XAML.
+- Custom Map.
+- SkiaSharp Charts.
+- Xamarin.Forms Native Forms.
+- Live Player.
+- NFC.
+
+### More information:
+
+- Source code:  [https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps](https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps)
+
 
 ## [BikeSharing](https://github.com/Microsoft/BikeSharing360_MobileApps)
 
