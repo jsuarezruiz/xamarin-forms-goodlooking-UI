@@ -177,6 +177,26 @@ This sample show how to recreate a beautifull Social Network profile type page i
 - Source code: [https://github.com/kphillpotts/XamarinFormsLayoutChallenges](https://github.com/kphillpotts/XamarinFormsLayoutChallenges)
 - Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
 
+## [KickassUI.FancyTutorial](https://github.com/sthewissen/KickassUI.FancyTutorial)
+
+A simple (but beautiful) Xamarin.Forms tutorial screen.
+
+<img src="images/simpletutorial.jpg" Width="600" />
+
+### Platforms
+
+Android & iOS.
+
+### Features
+
+- [Carousel](https://github.com/alexrainman/CarouselView)
+
+### More information:
+
+- Blog: [Creating a simple but good-looking app tutorial](https://www.thewissen.io/simple-good-looking-app-tutorial/)
+- Source code: [https://github.com/sthewissen/KickassUI.FancyTutorial](https://github.com/sthewissen/KickassUI.FancyTutorial)
+- Author: [Steven Thewissen](https://twitter.com/devnl)
+
 ## [KickassUI.Runkeeper](https://github.com/sthewissen/KickassUI.Runkeeper)
 
 A Xamarin.Forms version of the Runkeeper App.
