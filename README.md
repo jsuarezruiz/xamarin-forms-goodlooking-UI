@@ -28,7 +28,6 @@ Android, iOS & UWP.
 
 - Source code:  [https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps](https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps)
 
-
 ## [BikeSharing](https://github.com/Microsoft/BikeSharing360_MobileApps)
 
 BikeSharing360 is a fictitious example of a smart bike sharing system with 10,000 bikes distributed in 650 stations located throughout New York City and Seattle. Their vision is to provide a modern and personalized experience to riders and to run their business with intelligence. Was a demo in the Connect(); 2016.
@@ -352,4 +351,25 @@ Android, iOS, Linux (GTK), macOS, UWP and Windows (WPF).
 ### More information:
 
 - Source code: [https://github.com/jsuarezruiz/xamarin-forms-gtk-movies-sample](https://github.com/jsuarezruiz/xamarin-forms-gtk-movies-sample)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
+## [WalkthroughApp](https://github.com/jsuarezruiz/xamarin-forms-walkthrough)
+
+WalkthroughApp is a Xamarin.Forms application that makes use CarouselView and Lottie, to demonstrate the possibilities of creating a fluid and powerful Walkthrough without requiere Custom Renderers.
+
+<img src="images/walkthrough.gif" Width="250" /> 
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+
+- CarouselView
+- Lottie
+- Animations
+
+### More information:
+
+- Source code: [https://github.com/jsuarezruiz/xamarin-forms-walkthrough](https://github.com/jsuarezruiz/xamarin-forms-walkthrough)
 - Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
