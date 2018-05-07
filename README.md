@@ -6,11 +6,35 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?*. Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+## [ConferenceVision](https://github.com/Microsoft/ConferenceVision)
+
+Sample Xamarin.Forms 3.0 Phone App showed in Microsoft Build 2018. Use your camera during a conference to capture your experience. Let Vision do the heavy lifting of identifying known products and scan your images to text for easier searching.
+
+<img src="images/conferencevision.png" Width="800" />
+
+### Platforms
+
+Android, iOS & UWP.
+### Features:
+
+- Xamarin.Forms 3.0
+- FlexLayout
+- CSS
+- VisualStateManager
+- Custom Vision
+- Computer Vision API
+
+
+### More information:
+
+- Source code: [https://github.com/Microsoft/ConferenceVision](https://github.com/Microsoft/ConferenceVision)
+
 ## [SmartHotel](https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps)
 
 Travelers are always on the go, so SmartHotel360 offers a beautiful fully-native cross-device mobile app for guests and business travelers built with Xamarin.
 
 <img src="images/smarthotel-home.png" Width="210" /> <img src="images/smarthotel-menu.png" Width="210" /> <img src="images/smarthotel-suggestions.png" Width="210" /> <img src="images/smarthotel-myroom.png" Width="210" />
+
 ### Platforms
 
 Android, iOS & UWP.
