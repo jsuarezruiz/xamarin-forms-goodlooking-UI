@@ -6,6 +6,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?*. Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+# My Trip Countdown
+
+A Xamarin.Forms timer until your next vacation. 
+
+<img src="images/mytripcountdown.png" Width="800" />
+
+### Platforms
+
+Android & iOS.
+
+### Features:
+
+- Xamarin.Forms 3.0
+- SkiaSharp
+
+### More information:
+
+- Source code: [https://github.com/Microsoft/ConferenceVision](https://github.com/Microsoft/ConferenceVision)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
 ## [ConferenceVision](https://github.com/Microsoft/ConferenceVision)
 
 Sample Xamarin.Forms 3.0 Phone App showed in Microsoft Build 2018. Use your camera during a conference to capture your experience. Let Vision do the heavy lifting of identifying known products and scan your images to text for easier searching.
@@ -15,6 +35,7 @@ Sample Xamarin.Forms 3.0 Phone App showed in Microsoft Build 2018. Use your came
 ### Platforms
 
 Android, iOS & UWP.
+
 ### Features:
 
 - Xamarin.Forms 3.0
@@ -23,7 +44,6 @@ Android, iOS & UWP.
 - VisualStateManager
 - Custom Vision
 - Computer Vision API
-
 
 ### More information:
 
