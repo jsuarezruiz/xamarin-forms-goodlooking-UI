@@ -6,7 +6,7 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?*. Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
-# My Trip Countdown
+# [My Trip Countdown](https://github.com/jsuarezruiz/MyTripCountdown)
 
 A Xamarin.Forms timer until your next vacation. 
 
@@ -23,7 +23,7 @@ Android & iOS.
 
 ### More information:
 
-- Source code: [https://github.com/Microsoft/ConferenceVision](https://github.com/Microsoft/ConferenceVision)
+- Source code: [https://github.com/jsuarezruiz/MyTripCountdown](https://github.com/jsuarezruiz/MyTripCountdown)
 - Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
 
 ## [ConferenceVision](https://github.com/Microsoft/ConferenceVision)
