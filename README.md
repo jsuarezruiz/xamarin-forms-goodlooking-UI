@@ -10,13 +10,15 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 A Xamarin.Forms music player sample. 
 
+<img src="images/pulsemusic.gif" Width="320" />
+
 ### Platforms
 
 Android & iOS.
 
 ### Features:
 
-- Xamarin.Forms 3.0
+- Xamarin.Forms 3.1
 - SkiaSharp
 - Animations
 
@@ -38,7 +40,7 @@ Android & iOS.
 
 ### Features:
 
-- Xamarin.Forms 3.0
+- Xamarin.Forms 3.1
 - SkiaSharp
 
 ### More information:
