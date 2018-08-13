@@ -6,6 +6,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?*. Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+# [PulseMusic](https://github.com/jsuarezruiz/PulseMusic)
+
+A Xamarin.Forms music player sample. 
+
+### Platforms
+
+Android & iOS.
+
+### Features:
+
+- Xamarin.Forms 3.0
+- SkiaSharp
+- Animations
+
+### More information:
+
+- Source code: [https://github.com/jsuarezruiz/PulseMusic](https://github.com/jsuarezruiz/PulseMusic)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
+
 # [My Trip Countdown](https://github.com/jsuarezruiz/MyTripCountdown)
 
 A Xamarin.Forms timer until your next vacation. 
