@@ -6,7 +6,7 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?*. Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
-# [KickassUI.ParallaxCarousel](https://github.com/sthewissen/KickassUI.ParallaxCarousel)
+## [KickassUI.ParallaxCarousel](https://github.com/sthewissen/KickassUI.ParallaxCarousel)
 
 A Xamarin.Forms Carousel using a nice parallax effect.
 
@@ -27,7 +27,7 @@ Android & iOS.
 - Source code: [https://github.com/sthewissen/KickassUI.ParallaxCarousel](https://github.com/sthewissen/KickassUI.ParallaxCarousel)
 - Author: [Steven Thewissen](https://twitter.com/devnl)
 
-# [PulseMusic](https://github.com/jsuarezruiz/PulseMusic)
+## [PulseMusic](https://github.com/jsuarezruiz/PulseMusic)
 
 A Xamarin.Forms music player sample. 
 
@@ -48,7 +48,7 @@ Android & iOS.
 - Source code: [https://github.com/jsuarezruiz/PulseMusic](https://github.com/jsuarezruiz/PulseMusic)
 - Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
 
-# [My Trip Countdown](https://github.com/jsuarezruiz/MyTripCountdown)
+## [My Trip Countdown](https://github.com/jsuarezruiz/MyTripCountdown)
 
 A Xamarin.Forms timer until your next vacation. 
 
