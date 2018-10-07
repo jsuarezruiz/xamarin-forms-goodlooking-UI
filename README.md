@@ -48,6 +48,26 @@ Android & iOS.
 - Source code: [https://github.com/jsuarezruiz/PulseMusic](https://github.com/jsuarezruiz/PulseMusic)
 - Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
 
+## [Restaurant-App](https://github.com/Jurabek/Restaurant-App)
+
+Restaurant App is a sample open source application, powered by ASP.NET Core 2.1 and Xamarin.Forms 3.0. It incorporates material design and provides us with an overview of how to build mobile and web applications with a clean architecture and write testable and clean code.
+
+<img src="images/restaurantapp01.png" width="320" /> <img src="images/restaurantapp02.png" width="320" />
+
+### Platforms
+
+Android, iOS & UWP for client app.
+ASP.NET Core 2.1 for server API.
+
+### Features:
+
+- Xamarin.Forms 3.1
+
+### More information:
+
+- Source code: [https://github.com/Jurabek/Restaurant-App](https://github.com/Jurabek/Restaurant-App)
+- Author: [Jurabek Azizkhujaev](https://twitter.com/jazizkhujaev)
+
 ## [My Trip Countdown](https://github.com/jsuarezruiz/MyTripCountdown)
 
 A Xamarin.Forms timer until your next vacation. 
