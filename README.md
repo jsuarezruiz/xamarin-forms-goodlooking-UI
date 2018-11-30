@@ -6,6 +6,28 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?*. Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+## Posy 
+
+A simple but good looking Xamarin.Forms UI screen.
+
+<img src="images/posy.gif" Width="320" />
+
+### Platforms
+
+Android & iOS.
+
+### Features:
+- Gradient background on the content page.
+- A randomly generated set of stars that rotates independently.
+- A small card with the result of your calculations.
+- A beautiful moon, also rotating independently.
+- Some entry animation of controls.
+
+### More information:
+- Source code: [https://github.com/sthewissen/Posy](https://github.com/sthewissen/Posy)
+- Author: [Steven Thewissen](https://twitter.com/devnl)
+
+
 ## [KickassUI.ParallaxCarousel](https://github.com/sthewissen/KickassUI.ParallaxCarousel)
 
 A Xamarin.Forms Carousel using a nice parallax effect.
