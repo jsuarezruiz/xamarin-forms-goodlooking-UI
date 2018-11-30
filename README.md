@@ -6,7 +6,7 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?*. Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
-## Posy 
+## [Posy](https://github.com/sthewissen/Posy) 
 
 A simple but good looking Xamarin.Forms UI screen.
 
@@ -24,9 +24,9 @@ Android & iOS.
 - Some entry animation of controls.
 
 ### More information:
+- Blog: [Xamarin.Forms in Space!](https://www.thewissen.io/xamarin-forms-in-space/)
 - Source code: [https://github.com/sthewissen/Posy](https://github.com/sthewissen/Posy)
 - Author: [Steven Thewissen](https://twitter.com/devnl)
-
 
 ## [KickassUI.ParallaxCarousel](https://github.com/sthewissen/KickassUI.ParallaxCarousel)
 
