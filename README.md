@@ -4,11 +4,11 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Work in progress*. Contributions are always welcome!
 
-*Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?*. Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
+*Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?* Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
 ## [Tailwind Traders](https://github.com/Microsoft/TailwindTraders-Mobile)
 
- A fictitious retail company showcasing the future of intelligent monbile application experiences.
+ A fictitious retail company showcasing the future of intelligent mobile application experiences.
 
 <img src="images/tailwindtraders.png" Width="800" />
 
@@ -500,7 +500,7 @@ Android, iOS, Linux (GTK), macOS, UWP and Windows (WPF).
 
 ## [WalkthroughApp](https://github.com/jsuarezruiz/xamarin-forms-walkthrough)
 
-WalkthroughApp is a Xamarin.Forms application that makes use CarouselView and Lottie, to demonstrate the possibilities of creating a fluid and powerful Walkthrough without requiere Custom Renderers.
+WalkthroughApp is a Xamarin.Forms application that makes use of CarouselView and Lottie, to demonstrate the possibilities of creating a fluid and powerful Walkthrough without requiring Custom Renderers.
 
 <img src="images/walkthrough.gif" Width="250" /> 
 
