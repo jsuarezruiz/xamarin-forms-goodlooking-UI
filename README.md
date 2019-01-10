@@ -87,6 +87,8 @@ Android & iOS.
 - Source code: [https://github.com/jsuarezruiz/PulseMusic](https://github.com/jsuarezruiz/PulseMusic)
 - Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
 
+[Martin Finkel](https://github.com/mfkl) has created a version of the application with real player using [libvlcsharp](https://code.videolan.org/mfkl/libvlcsharp-samples/tree/master/PulseMusic).
+
 ## [Restaurant-App](https://github.com/Jurabek/Restaurant-App)
 
 Restaurant App is a sample open source application, powered by ASP.NET Core 2.1 and Xamarin.Forms 3.0. It incorporates material design and provides us with an overview of how to build mobile and web applications with a clean architecture and write testable and clean code.
