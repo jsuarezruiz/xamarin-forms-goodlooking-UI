@@ -6,6 +6,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?* Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+## [KickassUI.Chameleon](https://github.com/sthewissen/KickassUI.Chameleon)
+
+A Xamarin.Forms version of the Chameleon app to prove you can create goodlooking UI with Xamarin.Forms.
+
+<img src="images/chameleon.png" Width="320" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Xamarin Essentials.
+- Lottie.
+
+### More information:
+- Blog: [Creating an encyclopedia page in Xamarin.Forms](https://www.thewissen.io/creating-an-encyclopedia-page-in-xamarin-forms/)
+- Source code: https://github.com/sthewissen/KickassUI.Chameleon
+- Author: [Steven Thewissen](https://twitter.com/devnl)
+
 ## [BindableLayoutPlayground](https://github.com/jsuarezruiz/BindableLayoutPlayground)
 
 A Xamarin.Forms sample to show how to use Bindable Layout. This sample is based on [User Profile Screen](https://dribbble.com/shots/4148230-User-Profile-Screen-Weather-App) designed by [Hernan Vionnet](https://dribbble.com/hernanvionnet).
@@ -22,6 +41,7 @@ Android, iOS & UWP.
 
 ### More information:
 - Source code: [https://github.com/jsuarezruiz/BindableLayoutPlayground](https://github.com/jsuarezruiz/BindableLayoutPlayground)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
 
 ## [Tailwind Traders](https://github.com/Microsoft/TailwindTraders-Mobile)
 
