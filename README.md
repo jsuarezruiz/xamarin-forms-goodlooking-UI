@@ -6,6 +6,24 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?* Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+## [My Tasks](https://github.com/jsuarezruiz/MyTasks)
+
+A Xamarin.Forms version of the [Filter Menu](https://dribbble.com/shots/1956586-Filter-Menu) design by Anton Aheichanka to prove you can create **goodlooking UI** with Xamarin.Forms.
+
+<img src="images/forms-tasks.gif" Width="320" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Xamarin.Forms Animations.
+- SkiaSharp.
+
+### More information:
+- Source code: https://github.com/jsuarezruiz/MyTasks
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
 ## [KickassUI.Chameleon](https://github.com/sthewissen/KickassUI.Chameleon)
 
 A Xamarin.Forms version of the Chameleon app to prove you can create goodlooking UI with Xamarin.Forms.
