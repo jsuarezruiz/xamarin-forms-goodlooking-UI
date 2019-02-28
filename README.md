@@ -21,6 +21,7 @@ Android, iOS.
 - SkiaSharp.
 
 ### More information:
+- Blog: [[Xamarin.Forms Challenge] My Tasks](https://javiersuarezruiz.wordpress.com/2019/02/28/xamarin-forms-challenge-my-tasks/)
 - Source code: https://github.com/jsuarezruiz/MyTasks
 - Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
 
