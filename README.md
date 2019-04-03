@@ -6,6 +6,24 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?* Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+## [KickassUI.Traveler](https://github.com/sthewissen/KickassUI.Traveler)
+
+A Xamarin.Forms version of the Traveler app to prove you can create good-looking UI with Xamarin.Forms.
+
+<img src="images/traveler.png" Width="600" />
+
+### Platforms
+Android, iOS.
+
+### Features:
+- CollectionView.
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+
+### More information:
+- Blog: [Travel broadens the mind…](https://www.thewissen.io/travel-broadens-the-mind/)
+- Source code: [https://github.com/sthewissen/KickassUI.Traveler](https://github.com/sthewissen/KickassUI.Traveler)
+- Author: [Steven Thewissen](https://twitter.com/devnl)
+
 ## [AnimatedHighlightApp](https://github.com/andreinitescu/AnimatedHighlightApp)
 
 A Xamarin.Forms application with form highlight animation using SkiaSharp and Xamarin.Forms built-in animations.
