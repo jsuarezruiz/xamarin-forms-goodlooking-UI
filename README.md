@@ -6,6 +6,22 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?* Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+## [TimelinePulse](https://github.com/jsuarezruiz/TimelinePulse)
+
+Xamarin.Forms good looking UI sample. This sample is based on [Timeline Profile Screen](https://dribbble.com/shots/1980532-Timeline-Profile) designed by [Anton Aheichanka](https://dribbble.com/madebyanton).
+
+<img src="images/timeline-pulse.gif" Width="320" />
+
+### Platforms
+Android, iOS.
+
+### Features:
+- SkiaSharp.
+
+### More information:
+- Source code: [https://github.com/jsuarezruiz/TimelinePulse](https://github.com/jsuarezruiz/TimelinePulse)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
 ## [KickassUI.Traveler](https://github.com/sthewissen/KickassUI.Traveler)
 
 A Xamarin.Forms version of the Traveler app to prove you can create good-looking UI with Xamarin.Forms.
