@@ -6,6 +6,23 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?* Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+## [ArtAuction](https://github.com/kphillpotts/ArtAuction)
+
+A Xamarin.Forms Layout challenge. From the design found at: https://dribbble.com/shots/6177235-Valuable-Auction-Product-Page by [Alex Pesenka](https://dribbble.com/alex_pesenka).
+
+<img src="images/artauction.gif" Width="320" />
+
+### Platforms
+Android, iOS, UWP.
+
+### Features:
+- Animations.
+- BindableLayout.
+
+### More information:
+- Source code: [https://github.com/kphillpotts/ArtAuction](https://github.com/kphillpotts/ArtAuction)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
+
 ## [TimelinePulse](https://github.com/jsuarezruiz/TimelinePulse)
 
 Xamarin.Forms good looking UI sample. This sample is based on [Timeline Profile Screen](https://dribbble.com/shots/1980532-Timeline-Profile) designed by [Anton Aheichanka](https://dribbble.com/madebyanton).
