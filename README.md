@@ -6,6 +6,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?* Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+## [ArtNews](https://github.com/jsuarezruiz/ArtNews)
+
+Xamarin.Forms good looking UI sample. This sample is based on [Art News App](https://dribbble.com/shots/6282441-Art-News-App) designed by [Shirley Yao](https://dribbble.com/shirleyyao).
+
+<img src="images/artnews.gif" Width="320" />
+
+### Platforms
+Android, iOS.
+
+### Features:
+- XAML Animations.
+- BindableLayout.
+- CollectionView
+- Page transitions.
+- Shared element transitions. 
+
+### More information:
+- Source code: [https://github.com/jsuarezruiz/ArtNews](https://github.com/jsuarezruiz/ArtNews)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
 ## [ArtAuction](https://github.com/kphillpotts/ArtAuction)
 
 A Xamarin.Forms Layout challenge. From the design found at: https://dribbble.com/shots/6177235-Valuable-Auction-Product-Page by [Alex Pesenka](https://dribbble.com/alex_pesenka).
