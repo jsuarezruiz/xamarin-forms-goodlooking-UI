@@ -18,8 +18,8 @@ Android, iOS.
 
 ### Features:
 
-- ListView to Timeline
-- Custom ViewCell
+- ListView to Timeline.
+- Custom ViewCell.
 
 ### More information:
 
