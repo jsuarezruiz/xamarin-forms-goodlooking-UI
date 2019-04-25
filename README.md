@@ -6,6 +6,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?* Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+## [Timeline With Images](https://github.com/egbakou/Timeline)
+
+Awesome UI: Timeline with images in Xamarin.Forms.
+
+![](images/timeline-with-images.png)
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+
+- ListView to Timeline
+- Custom ViewCell
+
+### More information:
+
+- Source code: [https://github.com/egbakou/Timeline](https://github.com/egbakou/Timeline)
+- Author: [Kodjo Laurent Egbakou](https://twitter.com/lioncoding)
+
 ## [ArtNews](https://github.com/jsuarezruiz/ArtNews)
 
 Xamarin.Forms good looking UI sample. This sample is based on [Art News App](https://dribbble.com/shots/6282441-Art-News-App) designed by [Shirley Yao](https://dribbble.com/shirleyyao).
@@ -532,7 +552,7 @@ Android & iOS.
 - Blog: [Creating a good-looking Xamarin Forms UI: Spotify](https://www.thewissen.io/xamarin-forms-ui-spotify/)
 - Source code: [https://github.com/sthewissen/KickassUI.Spotify](https://github.com/sthewissen/KickassUI.Spotify)
 - Author: [Steven Thewissen](https://twitter.com/devnl)
- 
+
 ## [KickassUI.Twitter](https://github.com/sthewissen/KickassUI.Twitter)
 
 A Xamarin.Forms version of the Twitter App.
