@@ -6,11 +6,32 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?* Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+## [WhatsAppUI](https://github.com/egbakou/WhatsAppUI)
+
+WhatsApp UI in Xamarin.Forms.
+
+![WhatsApp](images/whatsapp.png)
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+
+- Custom Floating Action Button.
+- Use of Emoji.
+- Use of the camera.
+
+### More information:
+
+- Source code: [https://github.com/egbakou/WhatsAppUI](https://github.com/egbakou/WhatsAppUI)
+- Author: [Kodjo Laurent Egbakou](https://twitter.com/lioncoding)
+
 ## [Timeline With Images](https://github.com/egbakou/Timeline)
 
 Awesome UI: Timeline with images in Xamarin.Forms.
 
-![](images/timeline-with-images.png)
+![Timeline](images/timeline-with-images.png)
 
 ### Platforms
 
