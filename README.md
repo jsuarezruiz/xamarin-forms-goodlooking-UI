@@ -6,6 +6,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?* Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+## [DayVsNight](https://github.com/kphillpotts/DayVsNight)
+
+A Xamarin.Forms UI Challenge.
+
+<img src="images/dayvsnight.png" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+
+- SkiaSharp controls.
+- PancakeView.
+
+### More information:
+- Source code: [https://github.com/kphillpotts/DayVsNight](https://github.com/kphillpotts/DayVsNight)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
+
 ## [WhatsAppUI](https://github.com/egbakou/WhatsAppUI)
 
 WhatsApp UI in Xamarin.Forms.
