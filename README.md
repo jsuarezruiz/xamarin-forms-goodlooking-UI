@@ -46,6 +46,41 @@ Android, iOS.
 - Source code: [https://github.com/egbakou/WhatsAppUI](https://github.com/egbakou/WhatsAppUI)
 - Author: [Kodjo Laurent Egbakou](https://twitter.com/lioncoding)
 
+## [EMI Calculator by Syncfusion](https://github.com/syncfusion/xamarin-showcase-emi-calculator)
+
+The EMI (Equated Monthly Instalment) Calculator is an application developed using Xamarin.Forms and Syncfusion controls to calculate the EMI with the given details of principal amount, tenure, and interest.
+
+![Xamarin.Forms EMI Calculator](images/xamarin-forms-emi-calculator.png)
+
+### Platform
+Android, iOS.
+
+### Features:
+* XAML UI
+* Converters
+* Custom controls
+* Data binding
+* Behaviours
+* MVVM
+* Xamarin.Essentials 
+* Localization
+* Styles
+* AutoFac for dependency injection
+* Phone and tablet layout
+
+### More information:
+
+Source code: https://github.com/syncfusion/xamarin-showcase-emi-calculator
+
+This project uses the following Syncfusion controls:
+
+* [SfNumericUpDown](https://www.syncfusion.com/xamarin-ui-controls/numericupdown)
+* [SfChart](https://www.syncfusion.com/xamarin-ui-controls/charts)
+* [SfDataGrid](https://www.syncfusion.com/xamarin-ui-controls/datagrid)
+* [SfTabView](https://www.syncfusion.com/xamarin-ui-controls/tabbed-view)
+* [XlsIO](https://www.syncfusion.com/excel-framework/xamarin)
+* [SfButton](https://www.syncfusion.com/xamarin-ui-controls/button)
+
 ## [Timeline With Images](https://github.com/egbakou/Timeline)
 
 Awesome UI: Timeline with images in Xamarin.Forms.
