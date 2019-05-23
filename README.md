@@ -6,6 +6,30 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?* Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+## [Xamarin CloudMusic](https://github.com/o1298098/Xamarin-CloudMusic)
+
+A Xamarin.Forms version of the NeteaseCloudMusic app.
+
+<img src="images/cloudmusic.gif" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+
+- Animations.
+- Audio Visualizer.
+- Blur Effect.
+- Parallax Effect.
+- Translucent StatusBar.
+- Video Player.
+- Xamarin.Forms Shell.
+
+### More information:
+- Source code: [https://github.com/o1298098/Xamarin-CloudMusic](https://github.com/o1298098/Xamarin-CloudMusic)
+- Author: [o1298098](https://github.com/o1298098)
+  
 ## [DayVsNight](https://github.com/kphillpotts/DayVsNight)
 
 A Xamarin.Forms UI Challenge.
