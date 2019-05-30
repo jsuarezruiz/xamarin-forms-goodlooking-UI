@@ -159,6 +159,7 @@ Android, iOS, UWP.
 - BindableLayout.
 
 ### More information:
+- Blog: [Xamarin.Forms UI Challenges - Art Auction](https://kymphillpotts.com/xamarin-forms-ui-challenge-artauction.html)
 - Source code: [https://github.com/kphillpotts/ArtAuction](https://github.com/kphillpotts/ArtAuction)
 - Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
 
