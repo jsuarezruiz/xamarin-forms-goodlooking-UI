@@ -6,6 +6,8 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?* Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+*Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
+
 ## [Xamarin CloudMusic](https://github.com/o1298098/Xamarin-CloudMusic)
 
 A Xamarin.Forms version of the NeteaseCloudMusic app.
