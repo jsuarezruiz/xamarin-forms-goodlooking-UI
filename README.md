@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [YellowClone](https://github.com/ionixjunior/YellowClone)
+
+A Yellow App clone made with Xamarin.Forms. 
+
+<img src="images/yellowclone01.png" Width="180" /> <img src="images/yellowclone02.png" Width="180" /> <img src="images/yellowclone03.png" Width="180" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+
+- Custom Map.
+- MasterDetailPage.
+
+### More information:
+- Source code: [https://github.com/ionixjunior/YellowClone](https://github.com/ionixjunior/YellowClone)
+- Author: [Ione Souza Junior](https://github.com/ionixjunior)
+
 ## [Xamarin CloudMusic](https://github.com/o1298098/Xamarin-CloudMusic)
 
 A Xamarin.Forms version of the NeteaseCloudMusic app.
