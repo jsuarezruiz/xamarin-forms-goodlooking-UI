@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [xUber](https://github.com/CrossGeeks/xUber)
+
+Uber Clone using Xamarin.Forms.
+
+<img src="images/xuber.png" Width="800" /> 
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- [Google Maps](https://github.com/amay077/Xamarin.Forms.GoogleMaps).
+- [Cards](https://github.com/AndreiMisiukevich/CardView).
+- Dialogs.
+
+### More information:
+- Blog: [Introducing xUber – Uber clone using Xamarin Forms](https://www.xamboy.com/2019/07/03/introducing-xuber-uber-clone-using-xamarin-forms/)
+- Source code: [https://github.com/CrossGeeks/xUber](https://github.com/CrossGeeks/xUber)
+- Author: [Rendy del Rosario](https://github.com/CrossGeeks)
+
 ## [KickassUI.Banking](https://github.com/sthewissen/KickassUI.Banking)
 
 A Xamarin.Forms version of a banking app concept, showing off how to use a base page.
