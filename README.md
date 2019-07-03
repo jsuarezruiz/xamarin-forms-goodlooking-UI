@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [KickassUI.Banking](https://github.com/sthewissen/KickassUI.Banking)
+
+A Xamarin.Forms version of a banking app concept, showing off how to use a base page.
+
+<img src="images/banking.jpg" Width="800" /> 
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- BasePage.
+- Xamarin Essentials.
+- PancakeView.
+
+### More information:
+- Blog: [Create a kickass banking app using a BasePage in Xamarin](https://www.thewissen.io/create-a-kickass-banking-app-using-a-basepage-in-xamarin/)
+- Source code: [https://github.com/sthewissen/KickassUI.Banking](https://github.com/sthewissen/KickassUI.Banking)
+- Author: [Steven Thewissen](https://twitter.com/devnl)
+
 ## [YellowClone](https://github.com/ionixjunior/YellowClone)
 
 A Yellow App clone made with Xamarin.Forms. 
