@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Payment UI Sample](https://github.com/CrossGeeks/PaymentUISample)
+
+A beautiful credit card payment UI, inspired by the following UI from [CVTemplates](https://cvtemplates.club/002-credit-card-checkout-screen-2x/).
+
+<img src="images/paymentuisample.gif" Width="250" /> 
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Visual.
+- Behaviors.
+
+### More information:
+- Blog: [Credit Card Payment UI in Xamarin Forms](https://xamgirl.com/credit-card-payment-ui-in-xamarin-forms/)
+- Source code: [https://github.com/CrossGeeks/PaymentUISample](https://github.com/CrossGeeks/PaymentUISample)
+- Author: [Charlin Agramonte](https://xamgirl.com)
+  
 ## [xUber](https://github.com/CrossGeeks/xUber)
 
 Uber Clone using Xamarin.Forms.
