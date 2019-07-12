@@ -8,6 +8,24 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Mountain Mobile](https://github.com/kphillpotts/MountainMobile)
+
+A Xamarin.Forms UI Challenge playing with SkiaSharp and animations.
+
+<img src="images/mountainmobile.gif" Width="250" /> 
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- SkiaSharp.
+- Animations.
+
+### More information:
+- Source code: [https://github.com/kphillpotts/MountainMobile](https://github.com/kphillpotts/MountainMobile)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
+
 ## [Payment UI Sample](https://github.com/CrossGeeks/PaymentUISample)
 
 A beautiful credit card payment UI, inspired by the following UI from [CVTemplates](https://cvtemplates.club/002-credit-card-checkout-screen-2x/).
