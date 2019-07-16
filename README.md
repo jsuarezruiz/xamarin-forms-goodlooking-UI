@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Run Away!](https://github.com/roubachof/SkiaSharpnado)
+
+The Run Away! app: Drawing gradient lines on top of Maps with SkiaSharp.
+
+<img src="images/runaway01.jpg" Width="250" /> <img src="images/runaway02.jpg" Width="250" /> 
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Maps.
+- Paths in the map using SkiaSharp.
+
+### More information:
+- Blog: [The Run Away! app: Drawing gradient lines on top of Maps with SkiaSharp](https://www.sharpnado.com/run-away-app/)
+- Source code: [https://github.com/roubachof/SkiaSharpnado](https://github.com/roubachof/SkiaSharpnado)
+- Author: [Jean-Marie Alfonsi](https://github.com/roubachof)
+
+
 ## [RottenUI](https://github.com/kphillpotts/RottenUI)
 
 A Xamarin.Forms UI Challenge.
