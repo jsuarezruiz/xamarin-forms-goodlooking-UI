@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Art Plant Mall](https://github.com/jsuarezruiz/Art-Plant-Mall)
+
+<img src="images/artplantmall01.gif" Width="250" /> <img src="images/artplantmall02.gif" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Animations.
+- CollectionView.
+- VisualStateManager.
+- Custom Controls.
+- Parallax effect.
+
+### More information:
+- Source code: [https://github.com/jsuarezruiz/Art-Plant-Mall](https://github.com/jsuarezruiz/Art-Plant-Mall)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+  
 ## [Run Away!](https://github.com/roubachof/SkiaSharpnado)
 
 The Run Away! app: Drawing gradient lines on top of Maps with SkiaSharp.
