@@ -8,7 +8,28 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [XamBookLibrary](https://github.com/shanranm/XamBookLibrary)
+
+Xamarin.Forms UI challenge from the [design](https://dribbble.com/shots/6603461-Library-App) by Victoria Sgarro.
+
+<img src="images/xambooklibrary.gif" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Animations.
+- Circle Images.
+- PancakeView (Corners, etc.).
+
+### More information:
+- Source code: [https://github.com/shanranm/XamBookLibrary](https://github.com/shanranm/XamBookLibrary)
+- Author: [Shanmukha Ranganath](https://github.com/shanranm)
+  
 ## [Art Plant Mall](https://github.com/jsuarezruiz/Art-Plant-Mall)
+
+A Xamarin.Forms UI challenge from the [design](https://dribbble.com/shots/6612746-Art-Plant-Mall) by [JIANGGM](https://dribbble.com/JIANGGM).
 
 <img src="images/artplantmall01.gif" Width="250" /> <img src="images/artplantmall02.gif" Width="250" />
 
@@ -24,6 +45,7 @@ Android, iOS.
 - Parallax effect.
 
 ### More information:
+- Blog: [[Xamarin UI Challenge] Art Plant Mall](https://javiersuarezruiz.wordpress.com/2019/07/17/xamarin-ui-challenge-art-plant-mall-english-version/)
 - Source code: [https://github.com/jsuarezruiz/Art-Plant-Mall](https://github.com/jsuarezruiz/Art-Plant-Mall)
 - Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
   
@@ -45,7 +67,6 @@ Android, iOS.
 - Blog: [The Run Away! app: Drawing gradient lines on top of Maps with SkiaSharp](https://www.sharpnado.com/run-away-app/)
 - Source code: [https://github.com/roubachof/SkiaSharpnado](https://github.com/roubachof/SkiaSharpnado)
 - Author: [Jean-Marie Alfonsi](https://github.com/roubachof)
-
 
 ## [RottenUI](https://github.com/kphillpotts/RottenUI)
 
