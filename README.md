@@ -8,6 +8,24 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [FicusUIChallenge](https://github.com/Pujolsluis/FicusUIChallenge)
+
+Xamarin.Forms UI Challenge Ficus IoT App.
+
+<img src="images/ficusuichallengepujolsluis.gif" Width="500" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Custom ListView.
+- Corner Radius.
+  
+### More information:
+- Source code: [https://github.com/Pujolsluis/FicusUIChallenge](https://github.com/Pujolsluis/FicusUIChallenge)
+- Author: [Luis Pujols](https://github.com/Pujolsluis)
+- 
 ## [XamBookLibrary](https://github.com/shanranm/XamBookLibrary)
 
 Xamarin.Forms UI challenge from the [design](https://dribbble.com/shots/6603461-Library-App) by Victoria Sgarro.
