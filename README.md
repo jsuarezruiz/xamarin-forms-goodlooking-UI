@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [PlayMusicXamarinClone](https://github.com/AlejandroRuiz/PlayMusicXamarinClone)
+
+Google Play Music app clone using Xamarin.Forms Shell.
+
+<img src="images/playmusicclone01.png" Width="220" /> <img src="images/playmusicclone02.png" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Xamarin.Forms Shell.
+- CollectionView.
+- SearchHandler.
+
+### More information:
+- Blog: [Xamarin.Forms 4 In Action: Rapid Prototyping](https://alejandroruizvarela.blogspot.com/2019/07/xamarinforms-4-in-action-rapid.html)
+- Source code: [https://github.com/AlejandroRuiz/PlayMusicXamarinClone](https://github.com/AlejandroRuiz/PlayMusicXamarinClone)
+- Author: [Alejandro Ruiz Varela](https://github.com/AlejandroRuiz)
+
 ## [FabulousTravel](https://github.com/mallibone/FabulousTravel)
 
 A beautiful Xamarin Forms sample using Atomic Design, F# and Fabulous.
