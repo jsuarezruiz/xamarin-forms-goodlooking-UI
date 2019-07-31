@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Balloony](https://github.com/shanranm/Balloony)
+
+Xamarin Forms UI Challenge based on [Ballon Slider Control design](https://dribbble.com/shots/6549207-Balloon-Slider-Control).
+
+<img src="images/balloony.gif" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- SkiaSharp.
+- Use Svg (FFImageLoading).
+- Gestures.
+
+### More information:
+- Source code: [https://github.com/shanranm/Balloony](https://github.com/shanranm/Balloony)
+- Author: [Shanmukha Ranganath](https://github.com/shanranm)
+
 ## [PlayMusicXamarinClone](https://github.com/AlejandroRuiz/PlayMusicXamarinClone)
 
 Google Play Music app clone using Xamarin.Forms Shell.
