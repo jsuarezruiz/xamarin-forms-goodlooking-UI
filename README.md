@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [FabulousTravel](https://github.com/mallibone/FabulousTravel)
+
+A beautiful Xamarin Forms sample using Atomic Design, F# and Fabulous.
+
+<img src="images/fabuloustravel.png" Width="500" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Carousel.
+- F# UI (using Fabulous).
+
+### More information:
+- Blog: [Creating beautiful Xamarin Forms apps using Atomic Design, F# and Fabulous](https://mallibone.com/post/creating-beautiful-xamarin-forms-apps-using-atomic-design-f-and-fabulous)
+- Source code: [https://github.com/mallibone/FabulousTravel](https://github.com/mallibone/FabulousTravel)
+- Author: [Mark Allibone](https://github.com/mallibone)
+  
 ## [FicusUIChallenge](https://github.com/Pujolsluis/FicusUIChallenge)
 
 Xamarin.Forms UI Challenge Ficus IoT App.
