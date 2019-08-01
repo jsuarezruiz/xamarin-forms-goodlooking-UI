@@ -8,6 +8,24 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [AirNZClone](https://github.com/rid00z/AirNZClone)
+
+Air NZ app clone using Xamarin.Forms.
+
+<img src="images/airnzclone.gif" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Animations.
+- Carousel.
+
+### More information:
+- Source code: [https://github.com/rid00z/AirNZClone](https://github.com/rid00z/AirNZClone)
+- Author: [Michael Ridland](https://github.com/rid00z)
+
 ## [Balloony](https://github.com/shanranm/Balloony)
 
 Xamarin Forms UI Challenge based on [Ballon Slider Control design](https://dribbble.com/shots/6549207-Balloon-Slider-Control).
