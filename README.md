@@ -8,6 +8,29 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [SyncFusion Essential UI Kit for Xamarin.Forms](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms)
+
+Elegantly designed XAML templates for Xamarin.Forms apps. These templates follow the MVVM design pattern to provide hassle-free integration and are compatible with Android, iOS, and UWP platforms. 
+
+![SyncFusion Essential UI Kit for Xamarin.Forms](images/xamarin-forms-ui-template.png)
+
+### Platforms
+
+Android, iOS and UWP.
+
+### Features
+* Rich, elegant XAML layouts for most common scenarios.
+* Layouts optimized for phones, tablets, and desktop.
+* Based on the MVVM design pattern to work with any MVVM framework.
+* Easy integration.
+* Developer-friendly APIs.
+* Appearance customization using styles.
+* Optimized layouts to get the best possible performance.
+* Right-to-left rendering support.
+
+### More information:
+- Source code: [https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms)
+
 ## [AirNZClone](https://github.com/rid00z/AirNZClone)
 
 Air NZ app clone using Xamarin.Forms.
