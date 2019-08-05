@@ -8,6 +8,24 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [MarvelCards](https://github.com/kphillpotts/MarvelCards)
+
+A Xamarin.Forms UI Challenge based on https://dribbble.com/shots/5935613-Marvel-Movies-Interaction.
+
+![MarvelCards](images/marvel-movies.gif)
+
+### Platforms
+
+Android, iOS.
+
+### Features
+* [CardsView](https://github.com/AndreiMisiukevich/CardView)
+* Animations
+
+### More information:
+- Source code: [https://github.com/kphillpotts/MarvelCards](https://github.com/kphillpotts/MarvelCards)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
+
 ## [SyncFusion Essential UI Kit for Xamarin.Forms](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms)
 
 Elegantly designed XAML templates for Xamarin.Forms apps. These templates follow the MVVM design pattern to provide hassle-free integration and are compatible with Android, iOS, and UWP platforms. 
