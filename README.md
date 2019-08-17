@@ -8,6 +8,24 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [FashionApp](https://github.com/devcrux/FashionApp)
+
+Beautiful Fashion App Design Using Xamarin.Forms.
+
+<img src="images/fashionapp.png" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features
+* CollectionView
+* Shell
+
+### More information:
+- Source code: [https://github.com/devcrux/FashionApp](https://github.com/devcrux/FashionApp)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+
 ## [MarvelCards](https://github.com/kphillpotts/MarvelCards)
 
 A Xamarin.Forms UI Challenge based on https://dribbble.com/shots/5935613-Marvel-Movies-Interaction.
