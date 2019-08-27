@@ -14,6 +14,19 @@ This UI Challenge is based on the fantastic dribble designs by Rick Waalders.
 
 https://dribbble.com/shots/1551934-Unzone-Details-popup-animation
 
+![UnZone](images/unzone.gif)
+
+### Platforms
+
+Android, iOS.
+
+### Features
+* Animations
+* BindableLayout
+
+### More information:
+- Source code: [https://github.com/kphillpotts/UnZone](https://github.com/kphillpotts/UnZone)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
 
 ## [BookSwap](https://github.com/kphillpotts/BookSwap)
 
