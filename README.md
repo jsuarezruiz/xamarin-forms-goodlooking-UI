@@ -8,6 +8,13 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [UnZone](https://github.com/kphillpotts/UnZone)
+
+This UI Challenge is based on the fantastic dribble designs by Rick Waalders.
+
+https://dribbble.com/shots/1551934-Unzone-Details-popup-animation
+
+
 ## [BookSwap](https://github.com/kphillpotts/BookSwap)
 
 This UI Challenge is based on the fantastic dribble designs by [Tubik](https://dribbble.com/Tubik).
