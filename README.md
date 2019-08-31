@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [WeatherApp](https://github.com/devcrux/WeatherApp)
+
+Beautiful WeatherApp UI in Xamarin.Forms.
+
+<img src="images/weatherapp.png" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features
+* ImageButton
+* ListView
+* Styles
+
+### More information:
+- Source code: [https://github.com/devcrux/WeatherApp](https://github.com/devcrux/WeatherApp)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+
 ## [UnZone](https://github.com/kphillpotts/UnZone)
 
 This UI Challenge is based on the fantastic dribble designs by Rick Waalders.
