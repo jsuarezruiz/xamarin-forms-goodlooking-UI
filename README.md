@@ -8,6 +8,27 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+[TravellingApp](https://github.com/jsuarezruiz/TravellingApp)
+
+Xamarin.Forms goodlooking UI sample using the new **CarouselView**.
+
+<img src="images/travellingapp.gif" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Animations.
+* Xamarin.Forms CarouselView.
+* Custom Fonts.
+* Lottie.
+* Shell.
+* Video Player.
+
+- Source code: [https://github.com/jsuarezruiz/TravellingApp](https://github.com/jsuarezruiz/TravellingApp)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
 ## [WeatherApp](https://github.com/devcrux/WeatherApp)
 
 Beautiful WeatherApp UI in Xamarin.Forms.
