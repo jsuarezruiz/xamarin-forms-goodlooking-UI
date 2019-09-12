@@ -8,7 +8,7 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
-[TravellingApp](https://github.com/jsuarezruiz/TravellingApp)
+## [TravellingApp](https://github.com/jsuarezruiz/TravellingApp)
 
 Xamarin.Forms goodlooking UI sample using the new **CarouselView**.
 
