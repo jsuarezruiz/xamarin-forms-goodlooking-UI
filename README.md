@@ -8,6 +8,24 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Pretty Weather](https://github.com/jamesmontemagno/app-pretty-weather)
+
+A very pretty weather application built with Xamarin.Forms.
+
+![Pretty Weather](images/prettyweather.gif)
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* [Xamarin.Essentials](https://github.com/xamarin/Essentials).
+* PancakeView (Corner Radius, Gradients).
+  
+### More information:
+- Source code: [https://github.com/jamesmontemagno/app-pretty-weather](https://github.com/jamesmontemagno/app-pretty-weather)
+- Author: [James Montemagno](https://twitter.com/jamesmontemagno)
+
 ## [TravellingApp](https://github.com/jsuarezruiz/TravellingApp)
 
 Xamarin.Forms goodlooking UI sample using the new **CarouselView**.
@@ -26,6 +44,7 @@ Android, iOS.
 * Shell.
 * Video Player.
 
+### More information:
 - Source code: [https://github.com/jsuarezruiz/TravellingApp](https://github.com/jsuarezruiz/TravellingApp)
 - Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
 
