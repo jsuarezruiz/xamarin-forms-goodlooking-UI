@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## DrinksGalleryApp
+
+Xamarin.Forms goodlooking UI sample using the new CarouselView (Parallax). 
+
+<img src="images/drinkgalleryapp.gif" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Animations.
+* CarouselView.
+* PancakeView (Corner Radius, Gradients).
+* Parallax.
+
+### More information:
+- Source code: [https://github.com/jsuarezruiz/DrinksGalleryApp](https://github.com/jsuarezruiz/DrinksGalleryApp)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
 ## [Pretty Weather](https://github.com/jamesmontemagno/app-pretty-weather)
 
 A very pretty weather application built with Xamarin.Forms.
