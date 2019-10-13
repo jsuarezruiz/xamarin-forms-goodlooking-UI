@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Credit Card Checkout](https://github.com/egbakou/CreditCardCheckout)
+
+This UI Challenge is based on the fantastic dribble designs by [Antra Sharma](https://dribbble.com/antra03).
+
+![CreditCardCheckout](images/creditcardcheckout.png)
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* CardsView.
+* PancakeView.
+
+### More information:
+
+- Source code: [https://github.com/egbakou/CreditCardCheckout](https://github.com/egbakou/CreditCardCheckout)
+- Author: [Kodjo Laurent Egbakou](https://twitter.com/lioncoding)
+
 ## DrinksGalleryApp
 
 Xamarin.Forms goodlooking UI sample using the new CarouselView (Parallax). 
