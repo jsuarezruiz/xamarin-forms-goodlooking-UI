@@ -24,6 +24,7 @@ Android, iOS.
 
 ### More information:
 
+- Blog: [Xamarin UI Challenge - Credit Card Checkout](https://lioncoding.com/2019/10/11/2019-10-11-xamarin-ui-challenge-credit-card-checkout/)
 - Source code: [https://github.com/egbakou/CreditCardCheckout](https://github.com/egbakou/CreditCardCheckout)
 - Author: [Kodjo Laurent Egbakou](https://twitter.com/lioncoding)
 
