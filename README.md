@@ -1,4 +1,4 @@
-# Xamarin.Forms goodlooking UI Samples
+# Xamarin.Forms goodlooking UI Samples [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A curated list of awesome **Xamarin.Forms** samples to show how to create **goodlooking UI** with Xamarin.Forms.
 
