@@ -8,6 +8,12 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+
+## [Facebook Profile UI](https://github.com/LeomarisReyes/FaceBookUISample)
+
+A tutorial of Leomaris Reyes about to replicate the Facebook profile page.
+
+
 ## [Credit Card Checkout](https://github.com/egbakou/CreditCardCheckout)
 
 This UI Challenge is based on the fantastic dribble designs by [Antra Sharma](https://dribbble.com/antra03).
