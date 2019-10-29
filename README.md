@@ -8,6 +8,23 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [IcelandMoss](https://github.com/kphillpotts/IcelandMoss)
+
+A Xamarin.Forms UI Challenge.
+
+<img src="images/icelandmoss.png" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Bindable Layout (Staggered list).
+
+### More information:
+- Source code: [https://github.com/kphillpotts/IcelandMoss](https://github.com/kphillpotts/IcelandMoss)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
+  
 ## [Credit Card Checkout](https://github.com/egbakou/CreditCardCheckout)
 
 This UI Challenge is based on the fantastic dribble designs by [Antra Sharma](https://dribbble.com/antra03).
@@ -28,7 +45,7 @@ Android, iOS.
 - Source code: [https://github.com/egbakou/CreditCardCheckout](https://github.com/egbakou/CreditCardCheckout)
 - Author: [Kodjo Laurent Egbakou](https://twitter.com/lioncoding)
 
-## DrinksGalleryApp
+## [DrinksGalleryApp](https://github.com/jsuarezruiz/DrinksGalleryApp)
 
 Xamarin.Forms goodlooking UI sample using the new CarouselView (Parallax). 
 
