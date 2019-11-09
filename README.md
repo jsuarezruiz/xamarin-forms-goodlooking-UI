@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [FlyMe](https://github.com/davidortinau/FlyMe)
+
+This is a Xamarin.Forms sample app showcasing the use of Material Design and CollectionView within the new Shell container.
+Demo presented at Microsoft Ignite 2019.
+
+<img src="images/book_tabs_droid.png" Width="220" /> <img src="images/myflights_tabs_droid.png" Width="220" /> <img src="images/results_tabs_grid_droid.png" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* CollectionView.
+* Shell.
+* Visual.
+
+### More information:
+- Source code: [https://github.com/davidortinau/FlyMe](https://github.com/davidortinau/FlyMe)
+- Author: [David Ortinau](https://twitter.com/davidortinau)
+
 ## [IcelandMoss](https://github.com/kphillpotts/IcelandMoss)
 
 A Xamarin.Forms UI Challenge.
