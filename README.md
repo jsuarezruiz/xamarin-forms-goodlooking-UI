@@ -17,7 +17,7 @@ Demo presented at Microsoft Ignite 2019.
 
 ### Platforms
 
-Android, iOS.
+Android, iOS and UWP.
 
 ### Features:
 * CollectionView.
