@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [FacebookUISample](https://github.com/LeomarisReyes/FaceBookUISample)
+
+Replicate the Facebook profile page with Xamarin.Forms.
+
+<img src="images/facebookuisample02.png" Width="220" /> <img src="images/facebookuisample01.png" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* CollectionView.
+* Bindable Layouts.
+* PancakeView.
+* FFImageLoading.
+
+### More information:
+- Source code: [https://github.com/LeomarisReyes/FaceBookUISample](https://github.com/LeomarisReyes/FaceBookUISample)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+
 ## [FlyMe](https://github.com/davidortinau/FlyMe)
 
 This is a Xamarin.Forms sample app showcasing the use of Material Design and CollectionView within the new Shell container.
