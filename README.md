@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [MountainTripSample](https://github.com/LeomarisReyes/MountainTripSample)
+
+ Super nice UI inspired by [Mountain Trip Design](https://dribbble.com/shots/8142497-Mountain-trip-time-iOS-app-design).
+
+<img src="images/mountaintripsample.gif" Width="800" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* VisualStateManager.
+* Layouts.
+* Styles.
+
+### More information:
+- Source code: [https://github.com/LeomarisReyes/MountainTripSample](https://github.com/LeomarisReyes/MountainTripSample)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+
 ## [FavFighters](https://github.com/jsuarezruiz/FavFighters)
 
 Xamarin.Forms goodlooking UI sample using the new SwipeView.
