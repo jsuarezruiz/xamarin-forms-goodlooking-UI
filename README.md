@@ -8,6 +8,24 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [FavFighters](https://github.com/jsuarezruiz/FavFighters)
+
+Xamarin.Forms goodlooking UI sample using the new SwipeView.
+
+<img src="images/favfighters.gif" Width="260" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* CollectionView.
+* SwipeView.
+
+### More information:
+- Source code: [https://github.com/jsuarezruiz/FavFighters](https://github.com/jsuarezruiz/FavFighters)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
 ## [FacebookUISample](https://github.com/LeomarisReyes/FaceBookUISample)
 
 Replicate the Facebook profile page with Xamarin.Forms.
