@@ -24,6 +24,7 @@ Android, iOS.
 * Styles.
 
 ### More information:
+- Blog: [Replicating great UI in Xamarin Forms](https://askxammy.com/replicating-great-ui-in-xamarin-forms/)
 - Source code: [https://github.com/LeomarisReyes/MountainTripSample](https://github.com/LeomarisReyes/MountainTripSample)
 - Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
 
