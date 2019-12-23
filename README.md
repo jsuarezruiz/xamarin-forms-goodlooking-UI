@@ -8,6 +8,20 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [FurnitureStore](https://github.com/kphillpotts/FurnitureStore)
+
+A Xamarin.Forms UI Challenge based on the fantastic [dribble designs by UXIS](https://dribbble.com/shots/7126187-IKEA-Store-App).
+
+<img src="images/furniturestore.png" Width="600" />
+
+### Features:
+* CarouselView.
+* Shared Transitions.
+
+### More information:
+- Source code: [https://github.com/kphillpotts/FurnitureStore](https://github.com/kphillpotts/FurnitureStore)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
+
 ## [MountainTripSample](https://github.com/LeomarisReyes/MountainTripSample)
 
  Super nice UI inspired by [Mountain Trip Design](https://dribbble.com/shots/8142497-Mountain-trip-time-iOS-app-design).
