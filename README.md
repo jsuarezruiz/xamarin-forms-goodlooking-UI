@@ -8,6 +8,21 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Cruise Mobile UI](https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-1/)
+
+A Xamarin.Forms UI Challenge based on the fantastic [dribble designs by Tamo Miqeladze](https://www.behance.net/tamo13).
+
+<img src="images/cruisemobileui-list.png" Width="220" /> <img src="images/cruisemobileui-detail.png" Width="220" />
+
+### Features:
+* CarouselView.
+* Custom Fonts.
+* PancakeView.
+  
+### More information:
+- Blog: [Xamarin UI Challenge – Cruise Mobile UI](https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-1/)
+- Author: [Andreas Nesheim](https://twitter.com/AndreasNesheim)
+  
 ## [FurnitureStore](https://github.com/kphillpotts/FurnitureStore)
 
 A Xamarin.Forms UI Challenge based on the fantastic [dribble designs by UXIS](https://dribbble.com/shots/7126187-IKEA-Store-App).
