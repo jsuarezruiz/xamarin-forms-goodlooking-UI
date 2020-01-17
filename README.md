@@ -8,6 +8,24 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [XamCall](https://github.com/ufukhawk/XamCall)
+
+Xamarin.Forms Call Screen UI.
+
+<img src="images/xamcall.gif" Width="240" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Gradients.
+* Shared Transitions.
+  
+### More information:
+- Source code: [https://github.com/ufukhawk/XamCall](https://github.com/ufukhawk/XamCall)
+- Author: [Ufuk](https://github.com/ufukhawk)
+  
 ## [Cruise Mobile UI](https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-1/)
 
 A Xamarin.Forms UI Challenge based on the fantastic [dribble designs by Tamo Miqeladze](https://www.behance.net/tamo13).
