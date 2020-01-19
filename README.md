@@ -24,7 +24,7 @@ Android, iOS.
   
 ### More information:
 - Source code: [https://github.com/ufukhawk/XamCall](https://github.com/ufukhawk/XamCall)
-- Author: [Ufuk](https://github.com/ufukhawk)
+- Author: [Ufuk Zimmerman](https://github.com/ufukhawk)
 
 ## [XamUIDemo](https://github.com/ufukhawk/XamUIDemo)
 
@@ -44,7 +44,7 @@ Android, iOS.
   
 ### More information:
 - Source code: [https://github.com/ufukhawk/XamUIDemo](https://github.com/ufukhawk/XamUIDemo)
-- Author: [Ufuk](https://github.com/ufukhawk)
+- Author: [Ufuk Zimmerman](https://github.com/ufukhawk)
   
 ## [Cruise Mobile UI](https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-1/)
 
