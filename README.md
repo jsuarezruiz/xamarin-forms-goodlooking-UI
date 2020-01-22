@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Food UI Sample](https://github.com/LeomarisReyes/FoodAppSample)
+
+A Xamarin.Forms sample based on the [dribble designs by Rajat](https://dribbble.com/shots/8970618-Food-App).
+
+<img src="images/replicatingfoodimage.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* CollectionView.
+* Styles.
+* MVVM.
+
+### More information:
+- Blog: [Replicating Food UI Sample](https://askxammy.com/replicating-food-ui-sample/)
+- Source code: [https://github.com/LeomarisReyes/FoodAppSample](https://github.com/LeomarisReyes/FoodAppSample)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+ 
 ## [XamCall](https://github.com/ufukhawk/XamCall)
 
 Xamarin.Forms Call Screen UI.
