@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [FoodDeliveryAppDuo](https://github.com/jsuarezruiz/FoodDeliveryAppDuo)
+
+Xamarin.Forms good looking UI sample for Surface Duo.
+
+<img src="images/fooddeliveryduoapp.gif" Width="600" />
+
+### Platforms
+
+Android.
+
+### Features:
+* CarouselView.
+* CollectionView.
+* IndicatorView.
+* Using Xamarin.Duo SDK.
+
+### More information:
+- Source code: [https://github.com/jsuarezruiz/FoodDeliveryAppDuo](https://github.com/jsuarezruiz/FoodDeliveryAppDuo)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
 ## [Food UI Sample](https://github.com/LeomarisReyes/FoodAppSample)
 
 A Xamarin.Forms sample based on the [dribble designs by Rajat](https://dribbble.com/shots/8970618-Food-App).
