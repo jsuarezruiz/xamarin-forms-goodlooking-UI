@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [XamarinTV](https://github.com/xamarin/app-xamarintv)
+
+Xamarin.Forms app demonstrating the dual-screen device capability for neo and duo devices .
+
+<img src="images/xamarintv.png" Width="600" />
+
+### Platforms
+
+Android, UWP.
+
+### Features:
+* BindableLayout.
+* CollectionView.
+* MediaElement.
+* Xamarin.Forms.DualScreen.
+* StateTriggers.
+
+### More information:
+- Source code: [https://github.com/xamarin/app-xamarintv](https://github.com/xamarin/app-xamarintv)
+
 ## [FoodDeliveryAppDuo](https://github.com/jsuarezruiz/FoodDeliveryAppDuo)
 
 Xamarin.Forms good looking UI sample for Surface Duo.
