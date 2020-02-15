@@ -28,6 +28,25 @@ Android, UWP.
 ### More information:
 - Source code: [https://github.com/xamarin/app-xamarintv](https://github.com/xamarin/app-xamarintv)
 
+## [UserProfile UI](https://github.com/LeomarisReyes/UserProfileUISample)
+
+UI replicated in Xamarin Forms. Design obteined from Dribble: https://dribbble.com/shots/9033707-Daily-UI-006-User-Profile
+
+<img src="images/userprofileprincipal.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Layouts.
+* Styles.
+
+### More information:
+- Blog: [Replicating User Profile UI in Xamarin.Forms](https://askxammy.com/replicating-user-profile-ui-in-xamarin-forms/)
+- Source code: [https://github.com/LeomarisReyes/UserProfileUISample](https://github.com/LeomarisReyes/UserProfileUISample)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+ 
 ## [FoodDeliveryAppDuo](https://github.com/jsuarezruiz/FoodDeliveryAppDuo)
 
 Xamarin.Forms good looking UI sample for Surface Duo.
