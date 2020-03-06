@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [FlightBookingApp](https://github.com/jsuarezruiz/FlightBookingApp)
+
+Xamarin.Forms goodlooking UI sample using SwipeView to create a custom Pull to Refresh effect.
+
+<img src="images/swipe-lottie.gif" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* CollectionView.
+* Lottie.
+* SwipeView.
+
+### More information:
+- Source code: [https://github.com/jsuarezruiz/FlightBookingApp](https://github.com/jsuarezruiz/FlightBookingApp)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
 ## [XamarinTV](https://github.com/xamarin/app-xamarintv)
 
 Xamarin.Forms app demonstrating the dual-screen device capability for neo and duo devices .
