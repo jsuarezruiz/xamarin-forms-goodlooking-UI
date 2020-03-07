@@ -64,6 +64,26 @@ Android, iOS.
 - Source code: [https://github.com/jsuarezruiz/FlightBookingApp](https://github.com/jsuarezruiz/FlightBookingApp)
 - Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
 
+## [TravelAppSample](https://github.com/LeomarisReyes/TravelAppSample/)
+
+UI replicated in Xamarin Forms.
+⚠ Design obteined from Dribble. -> https://dribbble.com/shots/9061096-Travel-App
+
+<img src="images/travelui.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* CollectionView.
+* Layouts.
+
+### More information:
+- Blog: [Let’s replicate a Travel App in Xamarin Forms](https://askxammy.com/lets-replicate-a-travel-app-in-xamarin-forms/)
+- Source code: [https://github.com/LeomarisReyes/TravelAppSample](https://github.com/LeomarisReyes/TravelAppSample)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+
 ## [XamarinTV](https://github.com/xamarin/app-xamarintv)
 
 Xamarin.Forms app demonstrating the dual-screen device capability for neo and duo devices .
