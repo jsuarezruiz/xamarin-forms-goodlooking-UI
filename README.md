@@ -8,6 +8,24 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Chased Home UI Design](https://github.com/ufukhawk/Chased-Home-UI-Design)
+
+Xamarin.Forms goodlooking UI sample.
+
+<img src="images/chased-home-ui-design.png" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Custom Entry.
+* PancakeView.
+
+### More information:
+- Source code: [https://github.com/ufukhawk/Chased-Home-UI-Design](https://github.com/ufukhawk/Chased-Home-UI-Design)
+- Author: [Ufuk Zimmerman](https://github.com/ufukhawk)
+
 ## [FlightBookingApp](https://github.com/jsuarezruiz/FlightBookingApp)
 
 Xamarin.Forms goodlooking UI sample using SwipeView to create a custom Pull to Refresh effect.
