@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [YogaUI](https://github.com/davidortinau/YogaUI)
+
+UI exercise using C# UI, Xplat Images and Fonts, and LiveSharp.
+
+<img src="images/yogaui.png" Width="220" />
+
+### Platforms
+
+Android, iOS and UWP.
+
+### Features:
+* C# UI.
+* XPlat Images.
+* Xplat Fonts.
+
+### More information:
+- Source code: [https://github.com/davidortinau/YogaUI](https://github.com/davidortinau/YogaUI)
+- Author: [David Ortinau](https://twitter.com/davidortinau)
+
 ## [Chased Home UI Design](https://github.com/ufukhawk/Chased-Home-UI-Design)
 
 Xamarin.Forms goodlooking UI sample.
