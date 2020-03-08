@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [FashionStore](https://github.com/valentineg8/FashionStore)
+
+Xamarin.Forms Fashion Store UI.
+
+<img src="images/fashionstore.gif" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Animations.
+* PancakeView.
+* SharedTransitions.
+
+### More information:
+- Source code: [https://github.com/valentineg8/FashionStore](https://github.com/valentineg8/FashionStore)
+- Author: [Lorenzo Araujo](https://github.com/valentineg8)
+
 ## [YogaUI](https://github.com/davidortinau/YogaUI)
 
 UI exercise using C# UI, Xplat Images and Fonts, and LiveSharp.
