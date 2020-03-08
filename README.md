@@ -20,6 +20,8 @@ Android, iOS.
 
 ### Features:
 * Animations.
+* BindableLayout.
+* CarouselView.
 * PancakeView.
 * SharedTransitions.
 
