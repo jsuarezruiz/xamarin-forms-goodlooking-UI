@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [ModernDesign](https://github.com/exendahal/ModernDesignXF)
+
+Modern UI using Xamarin Forms.
+
+<img src="images/moderndesignxf.jpeg" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Layouts (Frame).
+* Shell.
+* Syncfusion.Xamarin.SfChart.
+
+### More information:
+- Source code: [https://github.com/exendahal/ModernDesignXF](https://github.com/exendahal/ModernDesignXF)
+- Author: [Santosh Dahal](https://github.com/exendahal)
+
 ## [FashionStore](https://github.com/valentineg8/FashionStore)
 
 Xamarin.Forms Fashion Store UI.
