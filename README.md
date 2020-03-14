@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [PlacesApp](https://github.com/valentineg8/PlacesApp)
+
+Xamarin.Forms travel app UI.
+
+<img src="images/placesapp.gif" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Animations.
+* CarouselView.
+* PancakeView.
+* SharedTransitions.
+
+### More information:
+- Source code: [https://github.com/valentineg8/PlacesApp](https://github.com/valentineg8/PlacesApp)
+- Author: [Lorenzo Araujo](https://github.com/valentineg8)
+
 ## [ModernDesign](https://github.com/exendahal/ModernDesignXF)
 
 Modern UI using Xamarin Forms.
