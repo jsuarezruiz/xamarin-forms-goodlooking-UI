@@ -19,9 +19,9 @@ Xamarin.Forms Profile Page.
 Android, iOS.
 
 ### Features:
-* CardsView.
-* TouchView.
-* ExpandableView.
+* [CardsView](https://github.com/AndreiMisiukevich/CardView).
+* [TouchView](https://github.com/AndreiMisiukevich/TouchEffect).
+* [ExpandableView](https://github.com/AndreiMisiukevich/ExpandableView).
 
 ### More information:
 - Source code: [https://github.com/AndreiMisiukevich/XamarinFormsProfilePage](https://github.com/AndreiMisiukevich/XamarinFormsProfilePage)
@@ -40,7 +40,7 @@ Android, iOS.
 ### Features:
 * Animations.
 * CarouselView.
-* PancakeView.
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
 * SharedTransitions.
 
 ### More information:
@@ -80,7 +80,7 @@ Android, iOS.
 * Animations.
 * BindableLayout.
 * CarouselView.
-* PancakeView.
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
 * SharedTransitions.
 
 ### More information:
@@ -118,7 +118,7 @@ Android, iOS.
 
 ### Features:
 * Custom Entry.
-* PancakeView.
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
 
 ### More information:
 - Source code: [https://github.com/ufukhawk/Chased-Home-UI-Design](https://github.com/ufukhawk/Chased-Home-UI-Design)
@@ -289,7 +289,7 @@ A Xamarin.Forms UI Challenge based on the fantastic [dribble designs by Tamo Miq
 ### Features:
 * CarouselView.
 * Custom Fonts.
-* PancakeView.
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
   
 ### More information:
 - Blog: [Xamarin UI Challenge – Cruise Mobile UI](https://www.andreasnesheim.no/xamarin-ui-challenge-cruise-mobile-ui-part-1/)
@@ -360,7 +360,7 @@ Android, iOS.
 ### Features:
 * CollectionView.
 * Bindable Layouts.
-* PancakeView.
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
 * FFImageLoading.
 
 ### More information:
@@ -416,7 +416,7 @@ Android, iOS.
 
 ### Features:
 * CardsView.
-* PancakeView.
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
 
 ### More information:
 
@@ -437,7 +437,7 @@ Android, iOS.
 ### Features:
 * Animations.
 * CarouselView.
-* PancakeView (Corner Radius, Gradients).
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView) (Corner Radius, Gradients).
 * Parallax.
 
 ### More information:
@@ -456,7 +456,7 @@ Android, iOS.
 
 ### Features:
 * [Xamarin.Essentials](https://github.com/xamarin/Essentials).
-* PancakeView (Corner Radius, Gradients).
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView) (Corner Radius, Gradients).
   
 ### More information:
 - Source code: [https://github.com/jamesmontemagno/app-pretty-weather](https://github.com/jamesmontemagno/app-pretty-weather)
@@ -495,9 +495,9 @@ Beautiful WeatherApp UI in Xamarin.Forms.
 Android, iOS.
 
 ### Features
-* ImageButton
-* ListView
-* Styles
+* ImageButton.
+* ListView.
+* Styles.
 
 ### More information:
 - Source code: [https://github.com/devcrux/WeatherApp](https://github.com/devcrux/WeatherApp)
@@ -516,8 +516,8 @@ https://dribbble.com/shots/1551934-Unzone-Details-popup-animation
 Android, iOS.
 
 ### Features
-* Animations
-* BindableLayout
+* Animations.
+* BindableLayout.
 
 ### More information:
 - Source code: [https://github.com/kphillpotts/UnZone](https://github.com/kphillpotts/UnZone)
@@ -534,10 +534,10 @@ This UI Challenge is based on the fantastic dribble designs by [Tubik](https://d
 Android, iOS.
 
 ### Features
-* Animations
-* ListView
-* Custom ViewCell
-* SkiaSharp
+* Animations.
+* ListView.
+* Custom ViewCell.
+* SkiaSharp.
 
 ### More information:
 - Source code: [https://github.com/kphillpotts/BookSwap](https://github.com/kphillpotts/BookSwap)
@@ -554,8 +554,8 @@ Beautiful Fashion App Design Using Xamarin.Forms.
 Android, iOS.
 
 ### Features
-* CollectionView
-* Shell
+* CollectionView.
+* Shell.
 
 ### More information:
 - Source code: [https://github.com/devcrux/FashionApp](https://github.com/devcrux/FashionApp)
@@ -572,8 +572,8 @@ A Xamarin.Forms UI Challenge based on https://dribbble.com/shots/5935613-Marvel-
 Android, iOS.
 
 ### Features
-* [CardsView](https://github.com/AndreiMisiukevich/CardView)
-* Animations
+* [CardsView](https://github.com/AndreiMisiukevich/CardView).
+* Animations.
 
 ### More information:
 - Source code: [https://github.com/kphillpotts/MarvelCards](https://github.com/kphillpotts/MarvelCards)
