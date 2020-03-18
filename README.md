@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [XamarinFormsProfilePage](https://github.com/AndreiMisiukevich/XamarinFormsProfilePage)
+
+Xamarin.Forms Profile Page.
+
+<img src="images/xamarinformsprofilepage.gif" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* CardsView.
+* TouchView.
+* ExpandableView.
+
+### More information:
+- Source code: [https://github.com/AndreiMisiukevich/XamarinFormsProfilePage](https://github.com/AndreiMisiukevich/XamarinFormsProfilePage)
+- Author: [Andrei Misiukevich](https://twitter.com/andrik_just4fun)
+
 ## [ModernDesign](https://github.com/exendahal/ModernDesignXF)
 
 Modern UI using Xamarin Forms.
