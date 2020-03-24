@@ -8,6 +8,29 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Covid19.Forms](https://github.com/AnthonyLatty/Covid19.Forms)
+
+Xamarin.Forms Covid19 Tracker App
+
+<img src="images/artwork.droid_2.jpg" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* [Acr.UserDialogs](https://github.com/aritchie/userdialogs)
+* [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
+* [Corcav.Behaviors](https://github.com/corradocavalli/Corcav.Behaviors)
+* [Xamarin.Essentials](https://docs.microsoft.com/xamarin/essentials)
+* [Xamarin.Forms](https://xamarin.com/forms)
+* [Xamarin.Forms Visual](https://docs.microsoft.com/xamarin/xamarin-forms/user-interface/visual/)
+
+### More information:
+- Source code: [https://github.com/AnthonyLatty/Covid19.Forms](https://github.com/AnthonyLatty/Covid19.Forms)
+- Author: [Marc-Anthony Latty](https://twitter.com/gifted_byte)
+
+
 ## [XamarinFormsProfilePage](https://github.com/AndreiMisiukevich/XamarinFormsProfilePage)
 
 Xamarin.Forms Profile Page.
