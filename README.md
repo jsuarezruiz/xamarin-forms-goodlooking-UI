@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Exotic Fruits App](https://github.com/LeomarisReyes/ExoticFruitSample)
+
+Replicating Exotic Fruits App in Xamarin Forms.
+
+<img src="images/exotic-fruits.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* CollectionView.
+* Layouts.
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+
+### More information:
+- Blog: [Replicating Exotic Fruits App in Xamarin Forms](https://askxammy.com/replicating-exotic-fruits-app-in-xamarin-forms/)
+- Source code: [https://github.com/LeomarisReyes/ExoticFruitSample](https://github.com/LeomarisReyes/ExoticFruitSample)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+
 ## [XamarinFormsProfilePage](https://github.com/AndreiMisiukevich/XamarinFormsProfilePage)
 
 Xamarin.Forms Profile Page.
