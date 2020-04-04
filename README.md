@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [FreshApp](https://github.com/valentineg8/FreshApp)
+
+Xamarin.Forms [fresh e-commerce](https://dribbble.com/shots/6861763-Fresh-e-commerce-App) app.
+
+<img src="images/freshapp.gif" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Animations.
+* Gestures.
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+* [SharedTransitions](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions).
+
+### More information:
+- Source code: [https://github.com/valentineg8/FreshApp](https://github.com/valentineg8/FreshApp)
+- Author: [Lorenzo Araujo](https://github.com/valentineg8)
+
 ## [Exotic Fruits App](https://github.com/LeomarisReyes/ExoticFruitSample)
 
 Replicating Exotic Fruits App in Xamarin Forms.
@@ -61,7 +81,7 @@ Android, iOS.
 * Animations.
 * CarouselView.
 * [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
-* SharedTransitions.
+* [SharedTransitions](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions).
 
 ### More information:
 - Source code: [https://github.com/valentineg8/PlacesApp](https://github.com/valentineg8/PlacesApp)
@@ -101,7 +121,7 @@ Android, iOS.
 * BindableLayout.
 * CarouselView.
 * [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
-* SharedTransitions.
+* [SharedTransitions](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions).
 
 ### More information:
 - Source code: [https://github.com/valentineg8/FashionStore](https://github.com/valentineg8/FashionStore)
@@ -274,7 +294,7 @@ Android, iOS.
 
 ### Features:
 * Gradients.
-* Shared Transitions.
+* [Shared Transitions](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions).
   
 ### More information:
 - Source code: [https://github.com/ufukhawk/XamCall](https://github.com/ufukhawk/XamCall)
@@ -323,7 +343,7 @@ A Xamarin.Forms UI Challenge based on the fantastic [dribble designs by UXIS](ht
 
 ### Features:
 * CarouselView.
-* Shared Transitions.
+* [Shared Transitions](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions).
 
 ### More information:
 - Source code: [https://github.com/kphillpotts/FurnitureStore](https://github.com/kphillpotts/FurnitureStore)
