@@ -8,6 +8,22 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [TurnipTracker](https://github.com/jamesmontemagno/app-ac-islandtracker)
+
+Animal Crossing Turnip Tracking Mobile App.
+
+<img src="images/turniptracker.gif" Width="220" />
+
+=======
+* Custom Fonts.
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+* SwipeView.
+* [Visual](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/visual/).
+
+### More information:
+- Source code: [https://github.com/jamesmontemagno/app-ac-islandtracker](https://github.com/jamesmontemagno/app-ac-islandtracker)
+- Author: [James Montemagno](https://twitter.com/jamesmontemagno)
+
 ## [Covid19.Forms](https://github.com/AnthonyLatty/Covid19.Forms)
 
 Xamarin.Forms Covid19 Tracker App
@@ -30,6 +46,46 @@ Android, iOS.
 - Source code: [https://github.com/AnthonyLatty/Covid19.Forms](https://github.com/AnthonyLatty/Covid19.Forms)
 - Author: [Marc-Anthony Latty](https://twitter.com/gifted_byte)
 
+
+## [FreshApp](https://github.com/valentineg8/FreshApp)
+
+Xamarin.Forms [fresh e-commerce](https://dribbble.com/shots/6861763-Fresh-e-commerce-App) app.
+
+<img src="images/freshapp.gif" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Animations.
+* Gestures.
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+* [SharedTransitions](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions).
+
+### More information:
+- Source code: [https://github.com/valentineg8/FreshApp](https://github.com/valentineg8/FreshApp)
+- Author: [Lorenzo Araujo](https://github.com/valentineg8)
+
+## [Exotic Fruits App](https://github.com/LeomarisReyes/ExoticFruitSample)
+
+Replicating Exotic Fruits App in Xamarin Forms.
+
+<img src="images/exotic-fruits.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* CollectionView.
+* Layouts.
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+
+### More information:
+- Blog: [Replicating Exotic Fruits App in Xamarin Forms](https://askxammy.com/replicating-exotic-fruits-app-in-xamarin-forms/)
+- Source code: [https://github.com/LeomarisReyes/ExoticFruitSample](https://github.com/LeomarisReyes/ExoticFruitSample)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
 
 ## [XamarinFormsProfilePage](https://github.com/AndreiMisiukevich/XamarinFormsProfilePage)
 
@@ -64,7 +120,7 @@ Android, iOS.
 * Animations.
 * CarouselView.
 * [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
-* SharedTransitions.
+* [SharedTransitions](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions).
 
 ### More information:
 - Source code: [https://github.com/valentineg8/PlacesApp](https://github.com/valentineg8/PlacesApp)
@@ -104,7 +160,7 @@ Android, iOS.
 * BindableLayout.
 * CarouselView.
 * [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
-* SharedTransitions.
+* [SharedTransitions](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions).
 
 ### More information:
 - Source code: [https://github.com/valentineg8/FashionStore](https://github.com/valentineg8/FashionStore)
@@ -277,7 +333,7 @@ Android, iOS.
 
 ### Features:
 * Gradients.
-* Shared Transitions.
+* [Shared Transitions](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions).
   
 ### More information:
 - Source code: [https://github.com/ufukhawk/XamCall](https://github.com/ufukhawk/XamCall)
@@ -326,7 +382,7 @@ A Xamarin.Forms UI Challenge based on the fantastic [dribble designs by UXIS](ht
 
 ### Features:
 * CarouselView.
-* Shared Transitions.
+* [Shared Transitions](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions).
 
 ### More information:
 - Source code: [https://github.com/kphillpotts/FurnitureStore](https://github.com/kphillpotts/FurnitureStore)
