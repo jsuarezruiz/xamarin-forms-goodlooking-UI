@@ -14,7 +14,11 @@ Animal Crossing Turnip Tracking Mobile App.
 
 <img src="images/turniptracker.gif" Width="220" />
 
-=======
+### Platforms
+
+Android, iOS.
+
+### Features:
 * Custom Fonts.
 * [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
 * SwipeView.
