@@ -52,7 +52,7 @@ Android, iOS.
 
 Xamarin.Forms Covid19 Tracker App
 
-<img src="images/artwork.droid_2.jpg" Width="220" />
+<img src="images/covid1901.jpg" Width="220" /> <img src="images/covid1902.jpg" Width="220" />
 
 ### Platforms
 
@@ -69,7 +69,6 @@ Android, iOS.
 ### More information:
 - Source code: [https://github.com/AnthonyLatty/Covid19.Forms](https://github.com/AnthonyLatty/Covid19.Forms)
 - Author: [Marc-Anthony Latty](https://twitter.com/gifted_byte)
-
 
 ## [FreshApp](https://github.com/valentineg8/FreshApp)
 
