@@ -8,6 +8,29 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Xamarin.Forms Covid-19 Live](https://github.com/Altevir/xamarinforms-covid19)
+
+Developed with the aim of tracking Covid-19 cases with data from affected countries.
+
+<img src="images/covid19-altevir01.png" Width="220" /> <img src="images/covid19-altevir02.png" Width="220" />
+### Platforms
+
+Android, iOS.
+
+## Features: 
+* [Flurl](https://flurl.dev/) 
+* [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView) 
+* LiteDB 
+* [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup)
+* [PluginMultilingual](https://github.com/CrossGeeks/MultilingualPlugin) 
+* [Skeleton](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton) 
+* [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading)
+* Xamarin.Essentials
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-covid19](https://github.com/Altevir/xamarinforms-covid19)
+- Author: [Altevir](https://github.com/Altevir)
+
 ## [Photostock](https://github.com/ufukhawk/XamarinForms-PhotoStock-UI-Design)
 
 Xamarin.Forms PhotoStock UI design.
