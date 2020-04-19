@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Photostock](https://github.com/ufukhawk/XamarinForms-PhotoStock-UI-Design)
+
+Xamarin.Forms PhotoStock UI design.
+
+<img src="images/photostock.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* Animations.
+* FlowListView.
+* PancakeView.
+* Shared Transitions.
+
+### More information:
+- Source code: [https://github.com/ufukhawk/XamarinForms-PhotoStock-UI-Design](https://github.com/ufukhawk/XamarinForms-PhotoStock-UI-Design)
+- Author: [Ufuk Zimmerman](https://github.com/ufukhawk)
+
 ## [FreshApp](https://github.com/valentineg8/FreshApp)
 
 Xamarin.Forms [fresh e-commerce](https://dribbble.com/shots/6861763-Fresh-e-commerce-App) app.
