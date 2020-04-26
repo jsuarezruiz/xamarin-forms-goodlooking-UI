@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [MbongoUIApp](https://github.com/Amaro96/Amaro96-MbongoUIApp)
+
+Mbongo means Money translating into Portuguese. Developed with the intention of practice and increasing productivity creating screens with Xamarin.Forms.
+
+<img src="images/mbongouiapp.jpg" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+* CircleImage.
+* MVVM.
+* PancakeView.
+* Xamarin.Essentials.
+
+### More information:
+- Source code: [https://github.com/Amaro96/Amaro96-MbongoUIApp](https://github.com/Amaro96/Amaro96-MbongoUIApp)
+
 ## [NeomorphismSmartHomeApp](https://github.com/felipebaltazar/NeomorphismSmartHomeApp)
 
 Smart Home App UI by Amit kumar using Xamarin.Forms.NeoControls.
