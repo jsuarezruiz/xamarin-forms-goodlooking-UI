@@ -26,7 +26,8 @@ Android, iOS.
 
 ### More information:
 - Source code: [https://github.com/Amaro96/Amaro96-MbongoUIApp](https://github.com/Amaro96/Amaro96-MbongoUIApp)
-
+- Author: [Amaro Manungu](https://github.com/Amaro96)
+  
 ## [NeomorphismSmartHomeApp](https://github.com/felipebaltazar/NeomorphismSmartHomeApp)
 
 Smart Home App UI by Amit kumar using Xamarin.Forms.NeoControls.
