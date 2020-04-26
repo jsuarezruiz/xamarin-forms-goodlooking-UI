@@ -8,6 +8,23 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [NeomorphismSmartHomeApp](https://github.com/felipebaltazar/NeomorphismSmartHomeApp)
+
+Smart Home App UI by Amit kumar using Xamarin.Forms.NeoControls.
+
+<img src="images/neomorphismsmarthomeapp01.gif" Width="220" /> <img src="images/neomorphismsmarthomeapp02.gif" Width="220" /> 
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+* [Xamarin.Forms.NeoControls](https://github.com/felipebaltazar/Xamarin.Forms.NeoControls).
+
+### More information:
+- Source code: [https://github.com/felipebaltazar/NeomorphismSmartHomeApp](https://github.com/felipebaltazar/NeomorphismSmartHomeApp)
+- Author: [Felipe Baltazar](https://github.com/felipebaltazar)
+
 ## [ShoppingList](https://github.com/jsuarezruiz/ShoppingList)
 
 Xamarin.Forms goodlooking UI sample using the new Expander Control. Based on [Shopping List design](https://dribbble.com/shots/2340386-Shopping-List) by Hila Peleg.
