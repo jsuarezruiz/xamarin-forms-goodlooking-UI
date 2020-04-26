@@ -8,6 +8,24 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [EcommerceXF](https://github.com/exendahal/ecommerceXF)
+
+Ecommerce design with Xamarin Forms. Design based on https://www.uistore.design/items/shopping-ui-kit-for-adobe-xd/.
+
+<img src="images/ecommercexf.gif" Width="240" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+* CollectionView.
+* SwipeView.
+
+### More information:
+- Source code: [https://github.com/exendahal/ecommerceXF](https://github.com/exendahal/ecommerceXF)
+- Author: [Santosh Dahal](https://github.com/exendahal)
+
 ## [MbongoUIApp](https://github.com/Amaro96/Amaro96-MbongoUIApp)
 
 Mbongo means Money translating into Portuguese. Developed with the intention of practice and increasing productivity creating screens with Xamarin.Forms.
