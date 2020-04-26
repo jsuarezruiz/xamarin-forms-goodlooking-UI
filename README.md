@@ -8,6 +8,28 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Free Chat](https://github.com/DamienDoumer/freechat)
+
+This is a sample Xamarin.Forms application demonstrating how to build a user interface for a chat app. Inspired by https://dribbble.com/shots/10446738-Direct-messaging-mobile-app-design.
+
+<img src="images/freechat.gif" Width="240" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+* Shell.
+* CollectionView.
+* Lottie.
+* PancakeView.
+* XamEffects.
+* Xamarin.Essentials.
+
+### More information:
+- Source code: [https://github.com/DamienDoumer/freechat](https://github.com/DamienDoumer/freechat)
+- Author: [Damien Doumer](https://github.com/DamienDoumer)
+
 ## [EcommerceXF](https://github.com/exendahal/ecommerceXF)
 
 Ecommerce design with Xamarin Forms. Design based on https://www.uistore.design/items/shopping-ui-kit-for-adobe-xd/.
