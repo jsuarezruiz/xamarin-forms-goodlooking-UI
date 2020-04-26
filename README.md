@@ -8,11 +8,31 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [ShoppingList](https://github.com/jsuarezruiz/ShoppingList)
+
+Xamarin.Forms goodlooking UI sample using the new Expander Control. Based on [Shopping List design](https://dribbble.com/shots/2340386-Shopping-List) by Hila Peleg.
+
+<img src="images/shopinglist.gif" Width="600" /> 
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+* BindableLayout.
+* Expander.
+* Triggers.
+
+### More information:
+- Source code: [https://github.com/jsuarezruiz/ShoppingList](https://github.com/jsuarezruiz/ShoppingList)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
 ## [Xamarin.Forms Covid-19 Live](https://github.com/Altevir/xamarinforms-covid19)
 
 Developed with the aim of tracking Covid-19 cases with data from affected countries.
 
 <img src="images/covid19-altevir01.png" Width="220" /> <img src="images/covid19-altevir02.png" Width="220" />
+
 ### Platforms
 
 Android, iOS.
