@@ -8,6 +8,71 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [AlarmApp](https://github.com/devcrux/Clock-Animation-in-Xamarin-Forms)
+
+In this Xamarin Forms Tutorial we will be looking at creating Clock Animation in Xamarin Forms. We will be making use of the SkiaSharp 2D Drawing engine to create a beautiful clock and alarm design.
+
+You can watch the video here ➤ https://youtu.be/JbpDyRfaOqM
+
+<img src="images/alarmapp.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+* SkiaSharp.
+* PancakeView.
+* Xamarin.Essentials.
+
+### More information:
+- Source code: [https://github.com/devcrux/Clock-Animation-in-Xamarin-Forms](https://github.com/devcrux/Clock-Animation-in-Xamarin-Forms)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+  
+## [Burger Shop App](https://github.com/devcrux/CollectionView-and-CarouselView-in-Xamarin-Forms)
+
+Xamarin Forms has awesome tools and controls to create modern user interface suc as Collection View & Carousel View.
+
+This is the source code of a video, where you will learn the process of creating a Burger Shop App in Xamarin Forms using Collection View, Carousel View & the MVVM architectural pattern.
+
+You can watch the video here ➤ https://youtu.be/mbqzKf7HVcQ
+
+<img src="images/burguershopapp.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+* CarouselView.
+* CollectionView.
+
+### More information:
+- Source code: [https://github.com/devcrux/CollectionView-and-CarouselView-in-Xamarin-Forms](https://github.com/devcrux/CollectionView-and-CarouselView-in-Xamarin-Forms)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+  
+## [PropertyApp](https://github.com/devcrux/Animation-In-Xamarin-forms)
+
+The concept of animation in Xamarin Forms will be explained by designing a Real-Estate Property App, where I also explained how to work with embedded fonts, gradients, custom renderers and visual state manager.
+
+You can watch the video here ➤ https://youtu.be/WDw9R8seqMo
+
+<img src="images/propertyapp.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+* Embeded Fonts.
+* Gradients.
+* Animations.
+* VisualState.
+
+### More information:
+- Source code: [https://github.com/devcrux/Animation-In-Xamarin-forms](https://github.com/devcrux/Animation-In-Xamarin-forms)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+  
 ## [Free Chat](https://github.com/DamienDoumer/freechat)
 
 This is a sample Xamarin.Forms application demonstrating how to build a user interface for a chat app. Inspired by https://dribbble.com/shots/10446738-Direct-messaging-mobile-app-design.
