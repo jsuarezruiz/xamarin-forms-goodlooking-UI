@@ -8,6 +8,49 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Nomadic](https://github.com/Elisha-Misoi/Nomadic) 
+
+[Microsoft News](https://play.google.com/store/apps/details?id=com.microsoft.amp.apps.bingnews&hl=en) is built with Xamarin. I wondered… can I build the same 🤔? So I set out on this journey, I called it Nomadic.
+
+<img src="images/nomadic.gif" Width="240" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- [Xamarin.Essentials](https://github.com/xamarin/Essentials) by Microsoft
+- [NewsAPI C# Client](https://newsapi.org/docs/client-libraries/csharp) by [newsapi.org](https://newsapi.org/)
+- [Xamarin.Auth](https://github.com/xamarin/Xamarin.Auth)
+- [Plugin.FirebaseAuth](https://github.com/f-miyu/Plugin.FirebaseAuth) by [f-miyu](https://github.com/f-miyu)
+- [Plugin.CloudFirestore](https://github.com/f-miyu/Plugin.CloudFirestore) by [f-miyu](https://github.com/f-miyu)
+- [UserDialogs](https://github.com/aritchie/userdialogs) by [Allan Ritchie](https://allancritchie.net/)
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView) by [Steven Thewissen](https://thewissen.io)
+- [CardsView](https://github.com/AndreiMisiukevich/CardView) by [Andrei Misiukevich](https://github.com/AndreiMisiukevich)
+- [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading) by [Daniel Luberda](https://github.com/daniel-luberda)
+- [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup) by [Martijn van Dijk](https://github.com/martijn00)
+- [CurrentActivityPlugin](https://github.com/jamesmontemagno/CurrentActivityPlugin) by [James Montemagno](https://github.com/jamesmontemagno)
+
+### Blog posts:
+- [Part 1:](https://link.medium.com/RF1k3lBN15) Setting Up
+- [Part 2:](https://link.medium.com/Hfp1tLHN15) Using Shell
+- [Part 3:](https://link.medium.com/82PjSwTN15) Using Custom Fonts
+- [Part 4:](https://link.medium.com/bpzxOmZN15) Using Themes
+- [Part 5:](https://link.medium.com/TbZ9nodO15) NewsAPI
+- [Part 6:](https://link.medium.com/R4RPUTkO15) Using MVVM
+- [Part 7:](https://link.medium.com/RRWaHIwO15) Using CarouselView
+- [Part 8:](https://link.medium.com/UYqcSsFO15) Using ListView with DataTemplateSelector
+- [Part 9:](https://link.medium.com/1loOkgLO15) Using WebView
+- [Part 10:](https://link.medium.com/E5mdpESO15) Using CollectionView
+- [Part 11:](https://link.medium.com/pYQD37XO15) Using Geo Location
+- [Part 12:](https://link.medium.com/Z7A83o3O15) Creating a Firebase Project
+- [Part 13:](https://link.medium.com/UsQv6t9O15) Google Authentication with Firebase
+- [Part 14:](https://link.medium.com/hCSlA6dP15) Using Xamarin.Essentials Preferences and SecureStorage .....aand Wrapping Up 🙃
+  
+### More information:
+- Source code: [https://github.com/Elisha-Misoi/Nomadic](https://github.com/Elisha-Misoi/Nomadic)
+- Author: [Elisha Misoi](https://github.com/Elisha-Misoi)
+
 ## [AlarmApp](https://github.com/devcrux/Clock-Animation-in-Xamarin-Forms)
 
 In this Xamarin Forms Tutorial we will be looking at creating Clock Animation in Xamarin Forms. We will be making use of the SkiaSharp 2D Drawing engine to create a beautiful clock and alarm design.
