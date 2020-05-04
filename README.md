@@ -8,6 +8,28 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Xamarin.Forms Wallet CreditCard](https://github.com/Altevir/xamarinforms-wallet-creditcard)
+
+Xamarin.Forms Wallet CreditCard.
+
+<img src="images/walletcreditcard01.jpg" Width="240" /> <img src="images/walletcreditcard02.jpg" Width="240" />
+
+## Features: 
+- [CardsView](https://github.com/AndreiMisiukevich/CardView).
+- CollectionView.
+- Fonts Embedded.
+- MVVM.
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+- [Rg.Plugins.PopUp](https://github.com/rotorgames/Rg.Plugins.Popup).
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-wallet-creditcard](https://github.com/Altevir/xamarinforms-wallet-creditcard)
+- Author: [Altevir](https://github.com/Altevir)
+
+### Platforms
+
+Android, iOS.
+
 ## [Nomadic](https://github.com/Elisha-Misoi/Nomadic) 
 
 [Microsoft News](https://play.google.com/store/apps/details?id=com.microsoft.amp.apps.bingnews&hl=en) is built with Xamarin. I wondered… can I build the same 🤔? So I set out on this journey, I called it Nomadic.
