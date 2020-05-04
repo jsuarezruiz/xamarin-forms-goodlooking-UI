@@ -8,11 +8,35 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Play Audio in Xamarin.Forms](https://github.com/devcrux/Play-Audio-in-Xamarin-Forms)
+
+Learn how to design a COMPLETE Music Player in Xamarin Forms. In this video, we will make use of the Media Manager Plugin to make a music player app in Xamarin Forms and at the end you will see that music player in xamarin forms in quite easy.
+
+You can watch the video here ➤ https://youtu.be/7plenjrcloM
+
+<img src="images/playaudioxamarinforms.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+- [Plugin.MediaManager.Forms](https://github.com/Baseflow/XamarinMediaManager).
+
+### More information:
+- Source code: [https://github.com/devcrux/Play-Audio-in-Xamarin-Forms](https://github.com/devcrux/Play-Audio-in-Xamarin-Forms)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+
 ## [Xamarin.Forms Wallet CreditCard](https://github.com/Altevir/xamarinforms-wallet-creditcard)
 
 Xamarin.Forms Wallet CreditCard.
 
 <img src="images/walletcreditcard01.jpg" Width="240" /> <img src="images/walletcreditcard02.jpg" Width="240" />
+
+### Platforms
+
+Android, iOS.
 
 ## Features: 
 - [CardsView](https://github.com/AndreiMisiukevich/CardView).
@@ -25,10 +49,6 @@ Xamarin.Forms Wallet CreditCard.
 ### More information:
 - Source code: [https://github.com/Altevir/xamarinforms-wallet-creditcard](https://github.com/Altevir/xamarinforms-wallet-creditcard)
 - Author: [Altevir](https://github.com/Altevir)
-
-### Platforms
-
-Android, iOS.
 
 ## [Nomadic](https://github.com/Elisha-Misoi/Nomadic) 
 
