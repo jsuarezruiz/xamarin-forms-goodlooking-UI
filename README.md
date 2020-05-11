@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Play Video in Xamarin.Forms](https://github.com/devcrux/Play-Video-in-Xamarin-Forms)
+
+Learn how to design a COMPLETE Video Player in Xamarin Forms. 
+
+You can watch the video here ➤ https://youtu.be/mLJe5yxq_7o
+
+<img src="images/playvideoxamarinforms.jpg" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+- [Plugin.MediaManager.Forms](https://github.com/Baseflow/XamarinMediaManager).
+  
+### More information:
+- Source code: [https://github.com/devcrux/Play-Video-in-Xamarin-Forms](https://github.com/devcrux/Play-Video-in-Xamarin-Forms)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+  
 ## [Play Audio in Xamarin.Forms](https://github.com/devcrux/Play-Audio-in-Xamarin-Forms)
 
 Learn how to design a COMPLETE Music Player in Xamarin Forms. In this video, we will make use of the Media Manager Plugin to make a music player app in Xamarin Forms and at the end you will see that music player in xamarin forms in quite easy.
