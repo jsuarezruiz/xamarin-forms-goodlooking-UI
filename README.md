@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Coffeeffee](https://github.com/sthewissen/Coffeeffee)
+
+Implementation of a [coffee shopping UI](https://dribbble.com/shots/11246934-Product-Page-Ui-Exploration/attachments/2854822?mode=media) using Xamarin.Forms.
+
+<img src="images/coffeeffee.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- CarouselView.
+- Custom Fonts.
+- SkiaSharp.
+
+### More information:
+- Source code: [https://github.com/sthewissen/Coffeeffee](https://github.com/sthewissen/Coffeeffee)
+- Author: [Steven Thewissen](https://twitter.com/devnl)
+
+
 ## [Play Video in Xamarin.Forms](https://github.com/devcrux/Play-Video-in-Xamarin-Forms)
 
 Learn how to design a COMPLETE Video Player in Xamarin Forms. 
