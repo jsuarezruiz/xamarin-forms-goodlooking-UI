@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [FlightUISample](https://github.com/LeomarisReyes/FlightUISample)
+
+Replicate a Flight UI obtained from Dribbble ([Gleb Kuznetsov](https://dribbble.com/glebich)✈) using Xamarin.Forms.
+
+<img src="images/flightuisample.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- CollectionView.
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+
+### More information:
+- Blog: [Replicating Flight UI](https://askxammy.com/part-1-replicating-flight-ui-preparing-the-project-to-work-with-mvvm/)
+- Source code: [https://github.com/LeomarisReyes/FlightUISample](https://github.com/LeomarisReyes/FlightUISample)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+
 ## [Coffeeffee](https://github.com/sthewissen/Coffeeffee)
 
 Implementation of a [coffee shopping UI](https://dribbble.com/shots/11246934-Product-Page-Ui-Exploration/attachments/2854822?mode=media) using Xamarin.Forms.
