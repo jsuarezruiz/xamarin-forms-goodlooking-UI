@@ -8,6 +8,28 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [AgendaApp](https://github.com/devcrux/Xamarin.Forms-Expander)
+
+Let’s make use of the Xamarin.Forms Expander to create and expandable list in Xamarin Forms.
+
+Creating an expandable list in Xamarin Forms use to be tricky but now with the new Expander in Xamarin Forms, it is quite easy.
+
+You can watch the video here ➤ https://youtu.be/rT3LwzSsMmo
+
+<img src="images/forms-expander.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- Expander
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+  
+### More information:
+- Source code: [https://github.com/devcrux/Xamarin.Forms-Expander](https://github.com/devcrux/Xamarin.Forms-Expander)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+
 ## [FlightUISample](https://github.com/LeomarisReyes/FlightUISample)
 
 Replicate a Flight UI obtained from Dribbble ([Gleb Kuznetsov](https://dribbble.com/glebich)✈) using Xamarin.Forms.
@@ -45,7 +67,6 @@ Android, iOS.
 ### More information:
 - Source code: [https://github.com/sthewissen/Coffeeffee](https://github.com/sthewissen/Coffeeffee)
 - Author: [Steven Thewissen](https://twitter.com/devnl)
-
 
 ## [Play Video in Xamarin.Forms](https://github.com/devcrux/Play-Video-in-Xamarin-Forms)
 
