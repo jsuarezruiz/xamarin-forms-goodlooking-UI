@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [TravelApp](https://github.com/devcrux/Flip-Animation-in-Xamarin.Forms)
+
+Implement a Flip Animation in Xamarin.Forms.
+
+You can watch the video here ➤ https://youtu.be/VSNFLBGJEXs
+
+<img src="images/travelapp-flipview.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+
+## Features: 
+- Animations
+
+### More information:
+- Source code: [https://github.com/devcrux/Flip-Animation-in-Xamarin.Forms](https://github.com/devcrux/Flip-Animation-in-Xamarin.Forms)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+
 ## [AgendaApp](https://github.com/devcrux/Xamarin.Forms-Expander)
 
 Let’s make use of the Xamarin.Forms Expander to create and expandable list in Xamarin Forms.
