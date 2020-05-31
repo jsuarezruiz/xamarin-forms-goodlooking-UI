@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [XamNike](https://github.com/dgokhan/XamNike)
+
+Replicate [Uplabs Nike App design](https://dribbble.com/shots/9009192-Uplabs-Nike-app-redesign-free-UI-kit) in Xamarin.Forms.
+
+<img src="images/xamnike.png" Width="240" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading) by [Daniel Luberda](https://github.com/daniel-luberda)
+- Layouts.
+
+### More information:
+- Blog: [Xamarin.Forms – XamNike UI](https://www.gokhandogru.net/xamarin-forms-xamnike-ui/)
+- Source code: [https://github.com/dgokhan/XamNike](https://github.com/dgokhan/XamNike)
+- Author: [Gökhan Doğru](https://github.com/dgokhan)
+
 ## [TravelApp](https://github.com/devcrux/Flip-Animation-in-Xamarin.Forms)
 
 Implement a Flip Animation in Xamarin.Forms.
@@ -19,7 +38,6 @@ You can watch the video here ➤ https://youtu.be/VSNFLBGJEXs
 ### Platforms
 
 Android, iOS.
-
 
 ## Features: 
 - Animations
