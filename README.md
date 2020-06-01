@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [SwipeMenu](https://github.com/devcrux/Xamarin.Forms-SwipeView)
+
+Creating a custom side menu in Xamarin.Forms using Swipe View.
+
+You can watch the video here ➤ https://www.youtube.com/watch?v=1Vs4T6pEi_
+
+<img src="images/swipemenu.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- Animations.
+- SwipeView.
+
+### More information:
+- Source code: [https://github.com/devcrux/Xamarin.Forms-SwipeView](https://github.com/devcrux/Xamarin.Forms-SwipeView)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+
 ## [XamNike](https://github.com/dgokhan/XamNike)
 
 Replicate [Uplabs Nike App design](https://dribbble.com/shots/9009192-Uplabs-Nike-app-redesign-free-UI-kit) in Xamarin.Forms.
