@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [iBakePancakes](https://github.com/sthewissen/iBakePancakes)
+
+A fancy UI sample for an app providing pancake recipes, based on: https://dribbble.com/shots/4476011-Cook-Book-App-Design.
+
+<img src="images/ibakepancakes.jpg" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading) (Svg).
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+- [Sharpnado.MaterialFrame](https://github.com/roubachof/Sharpnado.MaterialFrame).
+
+### More information:
+- Source code: [https://github.com/sthewissen/iBakePancakes](https://github.com/sthewissen/iBakePancakes)
+- Author: [Steven Thewissen](https://twitter.com/devnl)
+
 ## [SwipeMenu](https://github.com/devcrux/Xamarin.Forms-SwipeView)
 
 Creating a custom side menu in Xamarin.Forms using Swipe View.
