@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [E-commerce HeadPhones App](https://github.com/Altevir/xamarinforms-ecommerce-headphones)
+
+App concept developed with Xamarin.Forms. Design: https://www.uplabs.com/posts/ecommerce-app-ui-concept 
+
+<img src="images/ecommerce-headphones.gif" Width="240" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- [Animations](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/animation/simple).
+- CollectionView.
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-ecommerce-headphones](https://github.com/Altevir/xamarinforms-ecommerce-headphones)
+- Author: [Altevir](https://github.com/Altevir)
+
 ## [iBakePancakes](https://github.com/sthewissen/iBakePancakes)
 
 A fancy UI sample for an app providing pancake recipes, based on: https://dribbble.com/shots/4476011-Cook-Book-App-Design.
