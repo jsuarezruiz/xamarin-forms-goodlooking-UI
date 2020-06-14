@@ -8,6 +8,27 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [EventTracker](https://github.com/devcrux/Animated-Xamarin.Forms-Expander)
+
+Let's make use of the Xamarin.Forms Expander to create an animated expandable list in Xamarin Forms.
+
+You can watch the video here ➤ https://youtu.be/ndF5we5_Ijw
+
+<img src="images/eventtracker.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- Animations.
+- Expander.
+
+### More information:
+- Source code: [https://github.com/devcrux/Animated-Xamarin.Forms-Expander](https://github.com/devcrux/Animated-Xamarin.Forms-Expander)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+
 ## [E-commerce HeadPhones App](https://github.com/Altevir/xamarinforms-ecommerce-headphones)
 
 App concept developed with Xamarin.Forms. Design: https://www.uplabs.com/posts/ecommerce-app-ui-concept 
