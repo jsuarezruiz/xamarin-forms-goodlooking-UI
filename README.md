@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Kidzee Games](https://github.com/Altevir/xamarinforms-kidzee-games)
+
+Xamarin.Forms App.
+
+<img src="images/kidzeegames.gif" Width="240" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- MVVM 
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView) 
+- [Embedded Fonts](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/text/fonts) 
+- CollectionView
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-kidzee-games](https://github.com/Altevir/xamarinforms-kidzee-games)
+- Author: [Altevir](https://github.com/Altevir)
+
 ## [CalendarUI](https://github.com/LeomarisReyes/CalendarUI)
 
  Replicate a Calendar / Schedule UI obtained from Dribble. You can check the design  [here](https://dribbble.com/shots/12082951-FODMAP/attachments/3714005?mode=media)!
@@ -20,7 +40,7 @@ Android, iOS.
 
 ## Features: 
 
--  CollectionView.
+- CollectionView.
 - Layouts.
 
 ### More information:
