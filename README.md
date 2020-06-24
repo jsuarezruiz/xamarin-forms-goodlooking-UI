@@ -8,6 +8,27 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [LoginPage](https://github.com/devcrux/Xamarin.Forms-Shapes)
+
+Making use of the Xamarin.Forms Shapes and Xamarin.Forms MediaElement to create an elegant login page in xamarin forms.
+
+You can watch the video here ➤ https://youtu.be/X3ZND30zI_A
+
+<img src="images/loginpage.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- MediaElement.
+- Shapes.
+
+### More information:
+- Source code: [https://github.com/devcrux/Xamarin.Forms-Shapes](https://github.com/devcrux/Xamarin.Forms-Shapes)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+
 ## [EventTracker](https://github.com/devcrux/Animated-Xamarin.Forms-Expander)
 
 Let's make use of the Xamarin.Forms Expander to create an animated expandable list in Xamarin Forms.
