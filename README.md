@@ -28,6 +28,27 @@ Android, iOS.
 - Source code: [https://github.com/Altevir/xamarinforms-kidzee-games](https://github.com/Altevir/xamarinforms-kidzee-games)
 - Author: [Altevir](https://github.com/Altevir)
 
+## [Art Store](https://github.com/Altevir/xamarinforms-art-store)
+
+Xamarin.Forms App.
+
+<img src="images/artstore.gif" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- MVVM 
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView) 
+- [Embedded Fonts](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/text/fonts) 
+- VisualStateManager
+- CollectionView
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-art-store](https://github.com/Altevir/xamarinforms-art-store)
+- Author: [Altevir](https://github.com/Altevir)
+
 ## [E-commerce Liquors](https://github.com/Altevir/xamarinforms-ecommerce-liquors)
 
 Xamarin.Forms App.
