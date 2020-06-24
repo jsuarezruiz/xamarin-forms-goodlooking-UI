@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [CalendarUI](https://github.com/LeomarisReyes/CalendarUI)
+
+ Replicate a Calendar / Schedule UI obtained from Dribble. You can check the design  [here](https://dribbble.com/shots/12082951-FODMAP/attachments/3714005?mode=media)!
+
+<img src="images/calendarui.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+-  CollectionView.
+- Layouts.
+
+### More information:
+- Blog: [Replicating Schedule UI in Xamarin Forms](https://askxammy.com/replicating-schedule-ui-in-xamarin-forms/)
+- Source code: [https://github.com/LeomarisReyes/CalendarUI](https://github.com/LeomarisReyes/CalendarUI)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+
 ## [LoginPage](https://github.com/devcrux/Xamarin.Forms-Shapes)
 
 Making use of the Xamarin.Forms Shapes and Xamarin.Forms MediaElement to create an elegant login page in xamarin forms.
