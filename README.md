@@ -8,6 +8,27 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Delivery](https://github.com/Altevir/xamarinforms-delivery)
+
+Xamarin.Forms App.
+
+<img src="images/delivery.gif" Width="240" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- MVVM 
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView) 
+- [Embedded Fonts](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/text/fonts) 
+- CollectionView
+- Shapes
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-delivery](https://github.com/Altevir/xamarinforms-delivery)
+- Author: [Altevir](https://github.com/Altevir)
+
 ## [Kidzee Games](https://github.com/Altevir/xamarinforms-kidzee-games)
 
 Xamarin.Forms App.
