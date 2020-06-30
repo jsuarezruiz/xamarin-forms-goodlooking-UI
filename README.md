@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [DarkStore](https://github.com/ufukhawk/DarkStore)
+
+Xamarin Forms Dark Store UI Design.
+
+<img src="images/darkstore.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* CollectionView.
+* BindableLayouts.
+* MVVM.
+* Shapes.
+
+### More information:
+- Source code: [https://github.com/ufukhawk/DarkStore](https://github.com/ufukhawk/DarkStore)
+- Author: [Ufuk Zimmerman](https://github.com/ufukhawk)
+
 ## [Delivery](https://github.com/Altevir/xamarinforms-delivery)
 
 Xamarin.Forms App.
