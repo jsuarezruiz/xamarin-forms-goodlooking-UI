@@ -8,6 +8,27 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [WatchShop](https://github.com/devcrux/Xamarin.Forms-Path---Watch-Shop)
+
+The Clip property of controls in Xamarin.Forms allows you to change the shape of your control. We will explore the use of this property as we design a Watch Shop Ecommerce App in Xamarin Forms.
+
+You can watch the video here ➤ https://youtu.be/pb-2bXWhuMo
+
+<img src="images/watchshop.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- [SharedTransitions](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions).
+- Shapes.
+
+### More information:
+- Source code: [https://github.com/devcrux/Xamarin.Forms-Path---Watch-Shop](https://github.com/devcrux/Xamarin.Forms-Path---Watch-Shop)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+
 ## [DarkStore](https://github.com/ufukhawk/DarkStore)
 
 Xamarin Forms Dark Store UI Design.
