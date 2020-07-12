@@ -8,6 +8,27 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Furniture App](https://github.com/Altevir/xamarinforms-furniture)
+
+App concept developed with Xamarin.Forms.
+
+<img src="images/furnitureapp.gif" Width="240" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- MVVM 
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView) 
+- CollectionView
+- Embedded Fonts
+- Shapes
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-furniture](https://github.com/Altevir/xamarinforms-furniture)
+- Author: [Altevir](https://github.com/Altevir)
+
 ## [WatchShop](https://github.com/devcrux/Xamarin.Forms-Path---Watch-Shop)
 
 The Clip property of controls in Xamarin.Forms allows you to change the shape of your control. We will explore the use of this property as we design a Watch Shop Ecommerce App in Xamarin Forms.
