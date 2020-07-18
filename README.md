@@ -8,6 +8,27 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Cinema App](https://github.com/devcrux/Cinema-App-Using-SkiaSharp-and-Xamarin-Fomrs-Shapes)
+
+Ever wondered how to replicate the cinema seats arrangements in Xamarin.Forms?
+
+You can watch the video here ➤ https://youtu.be/j_nVou7lNz0
+
+<img src="images/cinemaapp.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- SkiaSharp.
+- Shapes.
+
+### More information:
+- Source code: [https://github.com/devcrux/Cinema-App-Using-SkiaSharp-and-Xamarin-Fomrs-Shapes](https://github.com/devcrux/Cinema-App-Using-SkiaSharp-and-Xamarin-Fomrs-Shapes)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+  
 ## [Furniture App](https://github.com/Altevir/xamarinforms-furniture)
 
 App concept developed with Xamarin.Forms.
