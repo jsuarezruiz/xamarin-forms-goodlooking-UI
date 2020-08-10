@@ -8,6 +8,253 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Cinema App](https://github.com/devcrux/Cinema-App-Using-SkiaSharp-and-Xamarin-Fomrs-Shapes)
+
+Ever wondered how to replicate the cinema seats arrangements in Xamarin.Forms?
+
+You can watch the video here ➤ https://youtu.be/j_nVou7lNz0
+
+<img src="images/cinemaapp.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- SkiaSharp.
+- Shapes.
+
+### More information:
+- Source code: [https://github.com/devcrux/Cinema-App-Using-SkiaSharp-and-Xamarin-Fomrs-Shapes](https://github.com/devcrux/Cinema-App-Using-SkiaSharp-and-Xamarin-Fomrs-Shapes)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+  
+## [Furniture App](https://github.com/Altevir/xamarinforms-furniture)
+
+App concept developed with Xamarin.Forms.
+
+<img src="images/furnitureapp.gif" Width="240" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- MVVM 
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView) 
+- CollectionView
+- Embedded Fonts
+- Shapes
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-furniture](https://github.com/Altevir/xamarinforms-furniture)
+- Author: [Altevir](https://github.com/Altevir)
+
+## [WatchShop](https://github.com/devcrux/Xamarin.Forms-Path---Watch-Shop)
+
+The Clip property of controls in Xamarin.Forms allows you to change the shape of your control. We will explore the use of this property as we design a Watch Shop Ecommerce App in Xamarin Forms.
+
+You can watch the video here ➤ https://youtu.be/pb-2bXWhuMo
+
+<img src="images/watchshop.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- [SharedTransitions](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions).
+- Shapes.
+
+### More information:
+- Source code: [https://github.com/devcrux/Xamarin.Forms-Path---Watch-Shop](https://github.com/devcrux/Xamarin.Forms-Path---Watch-Shop)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+
+## [DarkStore](https://github.com/ufukhawk/DarkStore)
+
+Xamarin Forms Dark Store UI Design.
+
+<img src="images/darkstore.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+* CollectionView.
+* BindableLayouts.
+* MVVM.
+* Shapes.
+
+### More information:
+- Source code: [https://github.com/ufukhawk/DarkStore](https://github.com/ufukhawk/DarkStore)
+- Author: [Ufuk Zimmerman](https://github.com/ufukhawk)
+
+## [Delivery](https://github.com/Altevir/xamarinforms-delivery)
+
+Xamarin.Forms App.
+
+<img src="images/delivery.gif" Width="240" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- MVVM 
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView) 
+- [Embedded Fonts](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/text/fonts) 
+- CollectionView
+- Shapes
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-delivery](https://github.com/Altevir/xamarinforms-delivery)
+- Author: [Altevir](https://github.com/Altevir)
+
+## [Kidzee Games](https://github.com/Altevir/xamarinforms-kidzee-games)
+
+Xamarin.Forms App.
+
+<img src="images/kidzeegames.gif" Width="240" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- MVVM 
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView) 
+- [Embedded Fonts](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/text/fonts) 
+- CollectionView
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-kidzee-games](https://github.com/Altevir/xamarinforms-kidzee-games)
+- Author: [Altevir](https://github.com/Altevir)
+
+## [Art Store](https://github.com/Altevir/xamarinforms-art-store)
+
+Xamarin.Forms App.
+
+<img src="images/artstore.gif" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- MVVM 
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView) 
+- [Embedded Fonts](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/text/fonts) 
+- VisualStateManager
+- CollectionView
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-art-store](https://github.com/Altevir/xamarinforms-art-store)
+- Author: [Altevir](https://github.com/Altevir)
+
+## [E-commerce Liquors](https://github.com/Altevir/xamarinforms-ecommerce-liquors)
+
+Xamarin.Forms App.
+
+<img src="images/liquors01.jpg" Width="220" /> <img src="images/liquors02.jpg" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- MVVM 
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView) 
+- [Sharpnado.Shadows](https://github.com/roubachof/Sharpnado.Shadows)
+- [Embedded Fonts](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/text/fonts) 
+- CollectionView
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-ecommerce-liquors](https://github.com/Altevir/xamarinforms-ecommerce-liquors)
+- Author: [Altevir](https://github.com/Altevir)
+
+## [CalendarUI](https://github.com/LeomarisReyes/CalendarUI)
+
+ Replicate a Calendar / Schedule UI obtained from Dribble. You can check the design  [here](https://dribbble.com/shots/12082951-FODMAP/attachments/3714005?mode=media)!
+
+<img src="images/calendarui.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- CollectionView.
+- Layouts.
+
+### More information:
+- Blog: [Replicating Schedule UI in Xamarin Forms](https://askxammy.com/replicating-schedule-ui-in-xamarin-forms/)
+- Source code: [https://github.com/LeomarisReyes/CalendarUI](https://github.com/LeomarisReyes/CalendarUI)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+
+## [LoginPage](https://github.com/devcrux/Xamarin.Forms-Shapes)
+
+Making use of the Xamarin.Forms Shapes and Xamarin.Forms MediaElement to create an elegant login page in xamarin forms.
+
+You can watch the video here ➤ https://youtu.be/X3ZND30zI_A
+
+<img src="images/loginpage.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- MediaElement.
+- Shapes.
+
+### More information:
+- Source code: [https://github.com/devcrux/Xamarin.Forms-Shapes](https://github.com/devcrux/Xamarin.Forms-Shapes)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+
+## [EventTracker](https://github.com/devcrux/Animated-Xamarin.Forms-Expander)
+
+Let's make use of the Xamarin.Forms Expander to create an animated expandable list in Xamarin Forms.
+
+You can watch the video here ➤ https://youtu.be/ndF5we5_Ijw
+
+<img src="images/eventtracker.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- Animations.
+- Expander.
+
+### More information:
+- Source code: [https://github.com/devcrux/Animated-Xamarin.Forms-Expander](https://github.com/devcrux/Animated-Xamarin.Forms-Expander)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+
+## [E-commerce HeadPhones App](https://github.com/Altevir/xamarinforms-ecommerce-headphones)
+
+App concept developed with Xamarin.Forms. Design: https://www.uplabs.com/posts/ecommerce-app-ui-concept 
+
+<img src="images/ecommerce-headphones.gif" Width="240" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+- [Animations](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/animation/simple).
+- CollectionView.
+- [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-ecommerce-headphones](https://github.com/Altevir/xamarinforms-ecommerce-headphones)
+- Author: [Altevir](https://github.com/Altevir)
+
 ## [iBakePancakes](https://github.com/sthewissen/iBakePancakes)
 
 A fancy UI sample for an app providing pancake recipes, based on: https://dribbble.com/shots/4476011-Cook-Book-App-Design.
