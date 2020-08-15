@@ -8,6 +8,26 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [AnimatedGradient](https://github.com/devcrux/Xamarin.Forms-Brushes-Animated-Gradient-Background)
+
+Gradients have positive influence in modern designs. Xamarin.Forms 4.8 introduced the Xamarin.Forms Brushes that contain LinearGradientBrush, RadialGradientBrush and SolidColorBrush.
+
+You can watch the video here ➤ https://youtu.be/ejDwwc1Iq1s
+
+<img src="images/animatedgradient.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- Brushes.
+
+### More information:
+- Source code: [https://github.com/devcrux/Xamarin.Forms-Brushes-Animated-Gradient-Background](https://github.com/devcrux/Xamarin.Forms-Brushes-Animated-Gradient-Background)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+ 
 ## [Cinema App](https://github.com/devcrux/Cinema-App-Using-SkiaSharp-and-Xamarin-Fomrs-Shapes)
 
 Ever wondered how to replicate the cinema seats arrangements in Xamarin.Forms?
