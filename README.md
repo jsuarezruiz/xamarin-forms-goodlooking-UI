@@ -8,6 +8,27 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [AnimatedText](https://github.com/devcrux/Animated-Text-in-Xamarin-Forms)
+
+Animations can add visual cues about what’s going on in your app and are especially useful when the state of your UI changes, such as when new content loads or new actions become available.
+
+You can watch the video here ➤ https://youtu.be/ModuAWkv5K8
+
+<img src="images/animatedtext.gif" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- Animations.
+- BindableLayout.
+
+### More information:
+- Source code: [https://github.com/devcrux/Animated-Text-in-Xamarin-Forms](https://github.com/devcrux/Animated-Text-in-Xamarin-Forms)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+  
 ## [AnimatedGradient](https://github.com/devcrux/Xamarin.Forms-Brushes-Animated-Gradient-Background)
 
 Gradients have positive influence in modern designs. Xamarin.Forms 4.8 introduced the Xamarin.Forms Brushes that contain LinearGradientBrush, RadialGradientBrush and SolidColorBrush.
