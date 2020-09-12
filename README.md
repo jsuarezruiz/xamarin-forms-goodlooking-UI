@@ -8,6 +8,32 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Raw Rows](https://github.com/AndreiMisiukevich/RawRows)
+
+The "Raw Rows" is a sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing. The object of the puzzle is to place the tiles in order by making sliding moves that use the empty space.
+
+<img src="images/rawrows.gif" Width="240" />
+
+Download:
+
+* AppStore: https://apps.apple.com/zw/app/raw-rows/id1513966639
+* Google Play: https://play.google.com/store/apps/details?id=com.sourcesoft.rawrows&hl=en
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- PancakeView.
+- TouchView.
+- XForms.Plugin.AnimationNavigationPage
+- Xamarin.Essentials.
+
+### More information:
+- Source code: [https://github.com/AndreiMisiukevich/RawRows](https://github.com/AndreiMisiukevich/RawRows)
+- Author: [Andrei Misiukevich](https://twitter.com/andrik_just4fun)
+
 ## [Menu Transition](https://github.com/devcrux/Menu-Transition-in-Xamarin-Forms)
 
 Seemless transition is an essential part of user experience design and this project implements a custom menu transition from a title view in Xamarin Forms.
