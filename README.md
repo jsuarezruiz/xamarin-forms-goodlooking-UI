@@ -8,6 +8,27 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Streaming UI](https://github.com/LeomarisReyes/StreamingUIApp)
+
+Replicate a Streaming UI App obtained from Dribble. You can check the design [here](https://dribbble.com/shots/7015497-Streaming-App/attachments/18404?mode=media).
+
+<img src="images/streamingui.jpg" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- CollectionView.
+- Layouts.
+- PancakeView.
+
+### More information:
+- Blog: [Replicating Streaming UI App in Xamarin Forms](https://askxammy.com/replicating-streaming-ui-app-in-xamarin-forms/)
+- Source code: [https://github.com/LeomarisReyes/StreamingUIApp](https://github.com/LeomarisReyes/StreamingUIApp)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+
 ## [Real Estate Property details UI](https://github.com/LeomarisReyes/RealStateUIApp)
 
 Replicate a Real Estate UI obtained from Dribble. You can check the design [here](https://dribbble.com/shots/12997401-Real-Estate-app).
