@@ -8,6 +8,27 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Real Estate Property details UI](https://github.com/LeomarisReyes/RealStateUIApp)
+
+Replicate a Real Estate UI obtained from Dribble. You can check the design [here](https://dribbble.com/shots/12997401-Real-Estate-app).
+
+<img src="images/realestateui.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- CollectionView.
+- Layouts.
+- MVVM.
+
+### More information:
+- Blog: [Replicating Real Estate Property details UI in Xamarin Forms](https://askxammy.com/replicating-real-estate-property-details-ui-in-xamarin-forms/)
+- Source code: [https://github.com/LeomarisReyes/RealStateUIApp](https://github.com/LeomarisReyes/RealStateUIApp)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+
 ## [Raw Rows](https://github.com/AndreiMisiukevich/RawRows)
 
 The "Raw Rows" is a sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing. The object of the puzzle is to place the tiles in order by making sliding moves that use the empty space.
