@@ -8,6 +8,28 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Sneakers UI](https://github.com/LeomarisReyes/SneakersUIApp)
+
+Replicate a Sneaker UI App obtained from Dribble. You can check the design [here](https://dribbble.com/shots/13980919-Candy-Sneakers).
+
+<img src="images/sneakersui.png" Width="600" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- CollectionView.
+- Layouts.
+- Navigation.
+- PancakeView.
+
+### More information:
+- Blog: [Replicating Sneakers UI in Xamarin Forms](https://askxammy.com/replicating-sneakers-ui-in-xamarin-forms/)
+- Source code: [https://github.com/LeomarisReyes/SneakersUIApp](https://github.com/LeomarisReyes/SneakersUIApp)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+  
 ## [Streaming UI](https://github.com/LeomarisReyes/StreamingUIApp)
 
 Replicate a Streaming UI App obtained from Dribble. You can check the design [here](https://dribbble.com/shots/7015497-Streaming-App/attachments/18404?mode=media).
