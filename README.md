@@ -8,6 +8,30 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [DevsDNA application](https://github.com/DevsDNA/DevsDNA-Application)
+
+Open Source Xamarin.Forms application with the company lastest news, social networks, team members, etc.
+
+<img src="images/devsdna01.jpg" Width="220" /> <img src="images/devsdna02.jpg" Width="220" />
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+The application has been developed with [**Xamarin Forms**](https://dotnet.microsoft.com/apps/xamarin/xamarin-forms), using controls like [CollectionView](https://docs.microsoft.com/xamarin/xamarin-forms/user-interface/collectionview/) or [CarouselView](https://docs.microsoft.com/xamarin/xamarin-forms/user-interface/carouselview/). Also, we use some community developed NuGet packages:
+- [ReactiveUI](https://github.com/reactiveui/ReactiveUI)
+- [Refit](https://github.com/reactiveui/refit)
+- [Html Agility Pack](https://github.com/zzzprojects/html-agility-pack)
+- [LottieXamarin](https://github.com/Baseflow/LottieXamarin)
+- [Sharpnado.Shadows](https://github.com/roubachof/Sharpnado.Shadows)
+- [Xamarin.Plugin.SharedTransitions](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions)
+- [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading)
+- [Mobile.BuildTools](https://github.com/dansiegel/Mobile.BuildTools)
+
+### More information:
+- Source code: [https://github.com/DevsDNA/DevsDNA-Application](https://github.com/DevsDNA/DevsDNA-Application)
+  
 ## [Sneakers UI](https://github.com/LeomarisReyes/SneakersUIApp)
 
 Replicate a Sneaker UI App obtained from Dribble. You can check the design [here](https://dribbble.com/shots/13980919-Candy-Sneakers).
