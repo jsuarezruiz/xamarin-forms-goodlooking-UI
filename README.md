@@ -8,11 +8,34 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Cakes Mobile App](https://github.com/shawyunz/XampleUI)
+
+UI challenge in Xamarin.Forms. Original design from [Ghulam Rasool](https://dribbble.com/shots/14018398-Cakes-Mobile-App-UX-UI-Design/attachments/5634963?mode=media).
+
+https://youtu.be/Lq7-2PzsSpY
+
+<img src="images/cakesmobileapp.gif" Width="220" /> 
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- Shell.
+- Navigation.
+- SharedTransitions.
+  
+### More information:
+- Source code: [https://github.com/shawyunz/XampleUI](https://github.com/shawyunz/XampleUI)
+- Author: [Shaw Yu](https://github.com/shawyunz)
+  
 ## [DevsDNA application](https://github.com/DevsDNA/DevsDNA-Application)
 
 Open Source Xamarin.Forms application with the company lastest news, social networks, team members, etc.
 
 <img src="images/devsdna01.jpg" Width="220" /> <img src="images/devsdna02.jpg" Width="220" />
+
 ### Platforms
 
 Android, iOS.
