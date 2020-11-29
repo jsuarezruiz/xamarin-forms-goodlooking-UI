@@ -8,6 +8,29 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Restaurant App](https://github.com/devcrux/Beautiful-Restaurant-App-in-Xamarin-Forms)
+
+Building this beautiful Restaurant App in Xamarin Forms and spicing it up with some animations was made possible with Xamarin.Forms Shapes class and CarouselView.
+
+You can watch the video here 👉 https://youtu.be/6gb_iRj_BYU
+
+<img src="images/restaurantapp.gif" Width="600" /> 
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- Brushes.
+- BindableLayout.
+- CarouselView.
+- Shapes.
+  
+### More information:
+- Source code: [https://github.com/devcrux/Beautiful-Restaurant-App-in-Xamarin-Forms](https://github.com/devcrux/Beautiful-Restaurant-App-in-Xamarin-Forms)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+  
 ## [Cakes Mobile App](https://github.com/shawyunz/XampleUI)
 
 UI challenge in Xamarin.Forms. Original design from [Ghulam Rasool](https://dribbble.com/shots/14018398-Cakes-Mobile-App-UX-UI-Design/attachments/5634963?mode=media).
