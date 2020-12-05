@@ -8,6 +8,27 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Border Gradient Animation](https://github.com/devcrux/Border-Animation-in-Xamarin-Forms)
+
+Border Gradient Animation in Xamarin Forms.
+
+You can watch the video here 👉 https://youtu.be/bS0N6U-Ei78
+
+<img src="images/bordergradientanimation.gif" Width="600" /> 
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- Brushes.
+- Shapes.
+  
+### More information:
+- Source code: [https://github.com/devcrux/Border-Animation-in-Xamarin-Forms](https://github.com/devcrux/Border-Animation-in-Xamarin-Forms)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+  
 ## [Restaurant App](https://github.com/devcrux/Beautiful-Restaurant-App-in-Xamarin-Forms)
 
 Building this beautiful Restaurant App in Xamarin Forms and spicing it up with some animations was made possible with Xamarin.Forms Shapes class and CarouselView.
