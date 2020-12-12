@@ -8,6 +8,29 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [BillDetail](https://github.com/LeomarisReyes/BillDetailSample)
+
+UI replicated in Xamarin Forms. For more information about, you can enter to my blog https://askxammy.com
+
+⚠ Design obteined from Dribble. -> https://dribbble.com/shots/14274577/attachments/5925600?mode=media
+
+<img src="images/billdetail.png" Width="600" /> 
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- CollectionView.
+- Layouts.
+- PancakeView.
+
+### More information:
+- Blog: [Replicating Bill Details UI in Xamarin Forms](https://askxammy.com/replicating-bill-details-ui-in-xamarin-forms/)
+- Source code: [https://github.com/LeomarisReyes/BillDetailSample](https://github.com/LeomarisReyes/BillDetailSample)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+
 ## [Border Gradient Animation](https://github.com/devcrux/Border-Animation-in-Xamarin-Forms)
 
 Border Gradient Animation in Xamarin Forms.
