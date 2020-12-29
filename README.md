@@ -8,11 +8,33 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [ChristmasShopping UI](https://github.com/LeomarisReyes/ChristmasShoppingUI)
+
+UI replicated in Xamarin Forms.
+
+⚠ Design obtained from Dribble. -> https://dribbble.com/shots/14814593-Chirstmas-Shopping-App
+
+<img src="images/christmasshopping.png" Width="600" /> 
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- Layouts.
+- PancakeView.
+
+### More information:
+- Blog: [Replicating Christmas Shopping UI in Xamarin Forms](https://askxammy.com/replicating-christmas-shopping-ui-in-xamarin-forms/)
+- Source code: [https://github.com/LeomarisReyes/ChristmasShoppingUI](https://github.com/LeomarisReyes/ChristmasShoppingUI)
+- Author: [Leomaris Reyes](https://github.com/LeomarisReyes)
+
 ## [BillDetail](https://github.com/LeomarisReyes/BillDetailSample)
 
-UI replicated in Xamarin Forms. For more information about, you can enter to my blog https://askxammy.com
+UI replicated in Xamarin Forms.
 
-⚠ Design obteined from Dribble. -> https://dribbble.com/shots/14274577/attachments/5925600?mode=media
+⚠ Design obtained from Dribble. -> https://dribbble.com/shots/14274577/attachments/5925600?mode=media
 
 <img src="images/billdetail.png" Width="600" /> 
 
