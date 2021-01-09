@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [MiniLauncher](https://github.com/mariusmuntean/MiniLauncher)
+
+Apple Watch launcher recreated with pure Xamarin.Forms.
+
+<img src="images/minilauncher.gif" Width="200" /> 
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+- Animations!.
+- Xamarin.Forms 5.
+
+### More information:
+- Source code: [https://github.com/mariusmuntean/MiniLauncher](https://github.com/mariusmuntean/MiniLauncher)
+- Author: [Marius M.](https://github.com/mariusmuntean)
+
 ## [ChristmasShopping UI](https://github.com/LeomarisReyes/ChristmasShoppingUI)
 
 UI replicated in Xamarin Forms.
