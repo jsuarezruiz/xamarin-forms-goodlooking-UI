@@ -8,6 +8,28 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Uvento](https://github.com/Altevir/xamarinforms-uvento)
+
+Replicating this [Dribbble](https://dribbble.com/shots/9519342-UVENTO-App-Event-app-Exploration) design in Xamarin.Forms.
+
+<img src="images/uvento.gif" Width="220" /> 
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+* MVVM
+* Embedded Fonts (https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/text/fonts)
+* CollectionView
+* Xamarin.Forms 5.0
+* Xamarin Community Toolkit
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-uvento](https://github.com/Altevir/xamarinforms-uvento)
+- Author: [Altevir](https://github.com/Altevir) 
+
 ## [MiniLauncher](https://github.com/mariusmuntean/MiniLauncher)
 
 Apple Watch launcher recreated with pure Xamarin.Forms.
