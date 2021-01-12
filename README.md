@@ -8,6 +8,24 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Facebook Mobile Login Clone](https://github.com/ShahrukhYousafzai/FacebookMobileAppLoginUIClone)
+
+Clone of Facebook Login UI Design in Xamarin Forms
+
+<img src="images/fb-login-clone.png" Width="220" /> 
+
+### Platforms
+
+Android, iOS.
+
+### More information:
+- Source code: [https://github.com/ShahrukhYousafzai/FacebookMobileAppLoginUIClone](https://github.com/ShahrukhYousafzai/FacebookMobileAppLoginUIClone)
+- Author: [Shahrukh Yousafzai](https://github.com/ShahrukhYousafzai) 
+
+## Features: 
+
+* Layouts
+
 ## [Uvento](https://github.com/Altevir/xamarinforms-uvento)
 
 Replicating this [Dribbble](https://dribbble.com/shots/9519342-UVENTO-App-Event-app-Exploration) design in Xamarin.Forms.
