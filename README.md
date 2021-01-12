@@ -18,13 +18,13 @@ Clone of Facebook Login UI Design in Xamarin Forms
 
 Android, iOS.
 
-### More information:
-- Source code: [https://github.com/ShahrukhYousafzai/FacebookMobileAppLoginUIClone](https://github.com/ShahrukhYousafzai/FacebookMobileAppLoginUIClone)
-- Author: [Shahrukh Yousafzai](https://github.com/ShahrukhYousafzai) 
-
 ## Features: 
 
 * Layouts
+
+### More information:
+- Source code: [https://github.com/ShahrukhYousafzai/FacebookMobileAppLoginUIClone](https://github.com/ShahrukhYousafzai/FacebookMobileAppLoginUIClone)
+- Author: [Shahrukh Yousafzai](https://github.com/ShahrukhYousafzai) 
 
 ## [Uvento](https://github.com/Altevir/xamarinforms-uvento)
 
