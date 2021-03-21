@@ -8,6 +8,29 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Fishing](https://github.com/kphillpotts/Fishing)
+
+A Xamarin.Forms UI Challenge
+
+<img src="images/fishing.webp" Width="600" /> 
+
+Original Design: https://dribbble.com/shots/15278108-Fisherman-s-Fishing-Mobile-Apps
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+* CarouselView
+* Custom Fonts
+* Gradients
+* Layouts
+
+### More information:
+- Source code: [https://github.com/kphillpotts/Fishing](https://github.com/kphillpotts/Fishing)
+- Author: [Kym Phillpotts](https://github.com/kphillpotts) 
+  
 ## [Facebook Mobile Login Clone](https://github.com/ShahrukhYousafzai/FacebookMobileAppLoginUIClone)
 
 Clone of Facebook Login UI Design in Xamarin Forms
