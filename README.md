@@ -8,6 +8,25 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [ShapeAnimatedTransitions](https://github.com/FabriBertani/XFShapeAnimatedTransitions)
+
+Cool transition animations with Shapes in Xamarin.Forms.
+
+<img src="images/shapeanimatedtransitions01.gif" Width="200" />  <img src="images/shapeanimatedtransitions02.gif" Width="200" /> 
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+* Animations
+* Shapes
+
+### More information:
+- Source code: [https://github.com/FabriBertani/XFShapeAnimatedTransitions](https://github.com/FabriBertani/XFShapeAnimatedTransitions)
+- Author: [Fabricio Bertani](https://github.com/FabriBertani) 
+
 ## [Fishing](https://github.com/kphillpotts/Fishing)
 
 A Xamarin.Forms UI Challenge
