@@ -8,6 +8,32 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [GamingStore](https://github.com/Altevir/xamarinforms-game-store)
+
+Replicate design: https://www.uplabs.com/posts/game-store-ui-concept 
+
+Features:
+* Transition Effect (Fade) on title, description and background image.
+* Added icons to indicate which platform(s) are supported by the game.
+* Centered images on the Carousel.
+* Display  the amount of trophies per game through using a Badge.
+
+<img src="images/gamingstore.gif" Width="200" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+* Xamarin.Forms 5.0.
+* Embedded Fonts.
+* MVVM.
+
+### More information:
+- Source code: [https://github.com/Altevir/xamarinforms-game-store](https://github.com/Altevir/xamarinforms-game-store)
+- Author: [Altevir](https://github.com/Altevir) 
+
 ## [ShapeAnimatedTransitions](https://github.com/FabriBertani/XFShapeAnimatedTransitions)
 
 Cool transition animations with Shapes in Xamarin.Forms.
