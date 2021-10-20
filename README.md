@@ -2839,3 +2839,27 @@ Android, iOS.
 
 - Source code: [https://github.com/jsuarezruiz/xamarin-forms-walkthrough](https://github.com/jsuarezruiz/xamarin-forms-walkthrough)
 - Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+
+## [Xamarin Weather App](https://github.com/gheorghedarle/Xamarin-WeatherApp)
+
+Weather App is a simple weather app developed using Xamarin Forms. The app allows you to see the weather from your current location or another location around the globe using OpenWeather Api. Using One Call API the app displays the current weather, 24 hours and 6 days forecast. You can add new locations and switch between them from the Locations screen. From Settings screen you can change the unit system from metric to imperial. The app is available in light mode and dark mode.
+
+<img src="images/light_weather.png" Width="250" /> <img src="images/dark_weather.png" Width="250" /> <img src="images/dark_locations.png" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features
+
+- Xamarin Forms 5.0
+- Xamarin Essentials (Location, Placemark, Internet Connection)
+- Xamarin CommunityToolkit (SideMenu, StateLayout, TouchEffect, Expander)
+- Prism.Forms (MVVM, Dialogs)
+- Fody
+- Xamarin.Plugin.SharedTransitions (Page Transitions)
+
+### More information:
+
+- Source code: [https://github.com/gheorghedarle/Xamarin-WeatherApp](https://github.com/gheorghedarle/Xamarin-WeatherApp)
+- Author: [Darle Gheorghe](https://github.com/gheorghedarle)
