@@ -8,6 +8,29 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Xamarin ToDo App](https://github.com/gheorghedarle/Xamarin-ToDoApp)
+
+Todo App is a simple to do app developed with Xamarin and Firebase. The app allows you to create an account and login to create tasks and organize them into lists. You can see the tasks for the selected date in realtime mode, edit and delete them with swipe action, reorder them using drag and drop action and filter them by list from More screen. From Profile screen you can hide completed tasks on the main screen and see the total number of tasks, of completed tasks and lists that you created for your account. The app is available in both light and dark mode.
+
+<img src="images/xamarin-todoapp.png" Width="800" />
+
+### Platforms
+
+Android, iOS.
+
+## Features: 
+
+* Xamarin.Forms 5.0.
+* MVVM (Prism).
+* Xamarin CommunityToolkit
+* Xamarin Firebase Auth (Firebase Authentication)
+* Reactive UI (Realtime)
+* Firebase Firestore (CRUD Operations)
+
+### More information:
+- Source code: [https://github.com/gheorghedarle/Xamarin-ToDoApp](https://github.com/gheorghedarle/Xamarin-ToDoApp)
+- Author: [Darle Gheorghe](https://github.com/gheorghedarle) 
+
 ## [GamingStore](https://github.com/Altevir/xamarinforms-game-store)
 
 Replicate design: https://www.uplabs.com/posts/game-store-ui-concept 
