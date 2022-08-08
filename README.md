@@ -8,6 +8,27 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
 
+## [Xamarin Formula 1 App](https://github.com/gheorghedarle/Xamarin-Formula1)
+
+Formula 1 App is a simple app developed with Xamarin to display information about drivers, teams, circuits and seasons from 1950 to the current season. The app is developed in Xamarin Shell and Ergast API. In the Schedule screen, you can see the current season calendar and information about circuits and results for the finished races. In the Drivers and Teams screens, you can see current standings and information about them. In the History screen, you can select a season and see the schedule, driver and team standings for that season. The app is available in both light and dark mode.
+
+<img src="images/xamarin-formula1.png" Width="800" />
+
+### Platforms
+
+Android, iOS.
+
+## Features:
+
+* Xamarin.Forms 5.0.
+* Xamarin Essentials
+* Xamarin CommunityToolkit
+
+### More information:
+
+- Source code: [https://github.com/gheorghedarle/Xamarin-Formula1](https://github.com/gheorghedarle/Xamarin-Formula1)
+- Author: [Darle Gheorghe](https://github.com/gheorghedarle)
+
 ## [Xamarin ToDo App](https://github.com/gheorghedarle/Xamarin-ToDoApp)
 
 Todo App is a simple to do app developed with Xamarin and Firebase. The app allows you to create an account and login to create tasks and organize them into lists. You can see the tasks for the selected date in realtime mode, edit and delete them with swipe action, reorder them using drag and drop action and filter them by list from More screen. From Profile screen you can hide completed tasks on the main screen and see the total number of tasks, of completed tasks and lists that you created for your account. The app is available in both light and dark mode.
